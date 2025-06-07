@@ -42,7 +42,7 @@ title: Write Plans
 
 **Suggested resources:**
 
--[Benefits of published protocols according to a major scientific publisher](https://plos.org/protocols/)
+- [Benefits of published protocols according to a major scientific publisher](https://plos.org/protocols/)
 - [UoE information on protocols.io](https://digitalresearchservices.ed.ac.uk/resources/protocols.io) (please note: as of 2025, the University no longer subscribes to the premium plan, but you can use the basic functionalities) 
 - [UoE Research Data Service information on protocols](https://www.ed.ac.uk/information-services/research-support/research-data-service/during/open-research-tools/protocols) (includes webinars)   
 
