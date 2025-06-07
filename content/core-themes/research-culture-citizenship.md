@@ -4,7 +4,7 @@ nav_order: 2
 title: Research culture and citizenship
 ---
 
-Research culture embodies the behaviours, values, expectations, attitudes and norms that define our research communities. Positive research cultures foster an environment of integrity, collaboration, and continuous learning, which drives high-quality and ethical research. Research citizenship emphasises collaboration and community engagement which strengthens the integrity and impact of your research.
+**Research culture embodies the behaviours, values, expectations, attitudes and norms that define our research communities. Positive research cultures foster an environment of integrity, collaboration, and continuous learning, which drives high-quality and ethical research. Research citizenship emphasises collaboration and community engagement which strengthens the integrity and impact of your research.**
 
 - Understand how negative research culture can lead to poor research practice, impair integrity and reduce reproducibility, and conversely how good research culture can promote **integrity and reproducibility**.
 - Understand **your responsibilities** as a researcher, The University of Edinburgh follows [UK Research Integrity Office's (UKRIO) Code of Practice for Research and the Universities UK (UUK) Concordat to Support Research Integrity](https://research-office.ed.ac.uk/research-integrity/researcher-responsibilities)
