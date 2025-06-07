@@ -49,5 +49,31 @@ title: Write Plans
 {% include alert.html text="What information would you include in the study protocol and data management plan for your project?" align="center" color="success" %}  
 
  
+### Consider pre-registering your study in an open repository  
 
+  
+- **Preregistration** is a practice where researchers publicly register their research plan before conducting their study. This includes details such as research question, hypotheses, study design, data collection methods and planned analyses. 
+
+- Benefits of study pre-registration include limiting **publication bias** and   
+making your own research more **rigorous and transparent**.  
+
+- Consider alternative options like publishing a [Registered Report](https://royalsociety.org/blog/2016/11/registered-reports-what-are-they-and-why-are-they-important/): an article where methods and analyses are preregistered and peer-reviewed prior to the study being conducted. This review process, and potential modifications to the study design based on expert feedback, lead to provisional acceptance of studies that are deemed methodologically sound.  
+
+- Explore different **repositories** (e.g., Open Science Framework ([OSF](https://osf.io/)), The University of Edinburgh [DataShare](https://datashare.ed.ac.uk/), journal or funder-specific repositories) and consider which is most suitable for your research.  
+
+{% include alert.html text="Would you consider pre-registering your project? " align="center" color="success" %}  
+
+
+**Suggested resources:**
+
+- [Open Science Framework (OSF)](http://osf.io/)
+- [What are registered reports and why are they important? (Royal Society)](https://royalsociety.org/blog/2016/11/registered-reports-what-are-they-and-why-are-they-important/)
+- Dirnagl, U., Preregistration of exploratory research: learning from the golden age of discovery. Plos Biol 2020 Mar; 18(3): e3000690. [https://10.1371/journal.pbio.3000690](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7098547/)
+- [Pre-registration (Center for Open Science)](https://www.cos.io/initiatives/prereg)
+- Nosek, B. A., Ebersole, C. R., DeHaven, A. C., & Mellor, D. T. (2018). The preregistration revolution. Proceedings of the National Academy of Sciences, 115(11), 2600–2606. [https://doi.org/10.1073/pnas.1708274114](https://www.pnas.org/doi/epdf/10.1073/pnas.1708274114)
+- [7 selfish reasons for pre-registration (Association for Psychological Science)](https://www.psychologicalscience.org/observer/seven-selfish-reasons-for-preregistration#.WR3HblMrLOS)
+- ["Registered reports" (the Turing Way)](https://the-turing-way.netlify.app/communication/dif-articles/reg#cm-dif-articles-registered-reports)
+- [OSF Pre-registration and Registered Reports: a Primer from UKRN](https://osf.io/preprints/osf/8v2n7_v1)
+- [OSF Registered Reports Wiki](https://osf.io/3wct2/wiki/home/)
+- [OSF Templates of OSF Registration Forms](https://osf.io/zab38/)
  
