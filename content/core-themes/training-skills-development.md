@@ -15,3 +15,5 @@ Suggested resources:
 - [IAD courses and events for research staff](https://institute-academic-development.ed.ac.uk/research-roles/research-only-staff)
 - [Information skills courses](https://information-services.ed.ac.uk/help-consultancy/is-skills/classroom-based-courses-and-webinars)
 - Sites for service subscriptions by the University or your department (e.g. [LinkedIn Learning](https://www.linkedin.com/learning/)
+- [Edinburgh Clinical Research Facility - courses and events](https://clinical-research-facility.ed.ac.uk/core-services/education/courses-and-events) (e.g. good practice)
+- [Vitae - Research Development Framework](https://vitae.ac.uk/vitae-researcher-development-framework/)
