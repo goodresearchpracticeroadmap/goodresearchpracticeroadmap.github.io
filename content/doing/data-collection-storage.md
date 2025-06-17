@@ -32,13 +32,11 @@ title: Data collection & storage
 
   - You should keep a **‘golden copy’** of your raw data which should never be modified or to undergo any analyses. Any manipulations, tidying, or analyses should be performed on a separate copy of the data. The golden copy should be kept in a separate location and should never be edited.  
 
- 
 
-Do you have a clear plan in place for your data collection and storage? 
+{% include alert.html text="Do you have a clear plan in place for your data collection and storage?" align="center" color="success" %}
 
- 
 
- Suggested resources: 
+Suggested resources: 
 
 [Naming conventions guidance](https://data-protection.ed.ac.uk/records-management/practical-guidance/naming-conventions) (University of Edinburgh) 
 
