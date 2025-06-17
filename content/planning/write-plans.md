@@ -15,14 +15,12 @@ title: Write Plans
 
 - A DMP should include details of the types of data you will generate, the anticipated volume of your data, where data will be stored (short and long term), how data will be shared (if appropriate) and how you will make your data open - **‘as open as possible, as closed as necessary** is the phrase used by the European Research Executive Agency to describe their Open Science principles. 
 
-  
-
-**Suggested resources:**
-
+{% capture additional_resources %}
 - [UoE research Data Service guidance on DMPs](https://library.ed.ac.uk/research-support/research-data-service/before/writing-a-data-management-plan)
 - [DMPonline](https://dmponline.ed.ac.uk/?perform_check=false)
+{% endcapture %}
 
-   
+{% include accordion.html title1="Suggested resources" text1=additional_resources %}
 
 ### Consider writing a study protocol 
 
@@ -38,13 +36,13 @@ title: Write Plans
 
 - Scope out any existing **templates or examples** of protocols from the type of study you'll be conducting (e.g. protocols.io and university guidance). 
 
-  
-
-**Suggested resources:**
-
+{% capture additional_resources_2 %}
 - [Benefits of published protocols according to a major scientific publisher](https://plos.org/protocols/)
-- [UoE information on protocols.io](https://digitalresearchservices.ed.ac.uk/resources/protocols.io) (please note: as of 2025, the University no longer subscribes to the premium plan, but you can use the basic functionalities) 
-- [UoE Research Data Service information on protocols](https://www.ed.ac.uk/information-services/research-support/research-data-service/during/open-research-tools/protocols) (includes webinars)   
+- [UoE information on protocols.io](https://digitalresearchservices.ed.ac.uk/resources/protocols.io) (please note: as of 2025, the University no longer subscribes to the premium plan, but you can use the basic functionalities)
+- [UoE Research Data Service information on protocols](https://www.ed.ac.uk/information-services/research-support/research-data-service/during/open-research-tools/protocols) (includes webinars)
+{% endcapture %}
+
+{% include accordion.html title1="Suggested resources" text1=additional_resources_2 %}
 
 {% include alert.html text="What information would you include in the study protocol and data management plan for your project?" align="center" color="success" %}  
 
@@ -63,9 +61,7 @@ making your own research more **rigorous and transparent**. 
 
 {% include alert.html text="Would you consider pre-registering your project? " align="center" color="success" %}  
 
-
-**Suggested resources:**
-
+{% capture additional_resources_3 %}
 - [Open Science Framework (OSF)](http://osf.io/)
 - [What are registered reports and why are they important? (Royal Society)](https://royalsociety.org/blog/2016/11/registered-reports-what-are-they-and-why-are-they-important/)
 - Dirnagl, U., Preregistration of exploratory research: learning from the golden age of discovery. Plos Biol 2020 Mar; 18(3): e3000690. [https://10.1371/journal.pbio.3000690](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7098547/)
@@ -76,4 +72,6 @@ making your own research more **rigorous and transparent**. 
 - [OSF Pre-registration and Registered Reports: a Primer from UKRN](https://osf.io/preprints/osf/8v2n7_v1)
 - [OSF Registered Reports Wiki](https://osf.io/3wct2/wiki/home/)
 - [OSF Templates of OSF Registration Forms](https://osf.io/zab38/)
- 
+{% endcapture %}
+
+{% include accordion.html title1="Suggested resources" text1=additional_resources_3 %}

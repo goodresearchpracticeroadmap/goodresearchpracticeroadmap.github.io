@@ -27,23 +27,15 @@ title: Data Manipulation & Analysis
   
 {% include alert.html text="Are you confident you understand the best ways analyse and present your data? " align="center" color="success" %}
 
+{% capture additional_resources %}
+- [Experimental design and data analysis (UoE School of Biomedical Sciences)](https://www.ed.ac.uk/biomedical-sciences/experimental-design-and-data-analysis/)
+- [Statistical Design and Analysis of Biological Experiments  – Hans-Michael Kaltenbach (Senior Scientist at ETH Zürich)](https://n.ethz.ch/~kahans/doe2021/)
+- ["Ten reproducible research things" – advice on data quality, backups, documentation etc.](https://guereslib.github.io/ten-reproducible-research-things/)
+- ["Reproducible data analysis" (Stanford)](https://poldrack.github.io/psych-open-science-guide/4_reproducibleanalysis.html)
+- ["Tidy data" (Hadley Wickham)](https://www.jstatsoft.org/article/view/v059i10)
+- ["Writing robust code" (the Turing Way)](https://the-turing-way.netlify.app/reproducible-research/code-quality/code-quality-robust)
+- ["Data visualisation" (The Turing Way)](https://book.the-turing-way.org/reproducible-research/rdm/rdm-visualisation)
+- ["How to make scientific figures accessible to readers with color blindness"](https://www.ascb.org/diversity-equity-and-inclusion/how-to-make-scientific-figures-accessible-to-readers-with-color-blindness/)
+{% endcapture %}
 
- 
-
-Suggested resources:   
-
-[Experimental design and data analysis (UoE School of Biomedical Sciences)](https://www.ed.ac.uk/biomedical-sciences/experimental-design-and-data-analysis/)
-
-[Statistical Design and Analysis of Biological Experiments  – Hans-Michael Kaltenbach (Senior Scientist at ETH Zürich)](https://n.ethz.ch/~kahans/doe2021/)
-
-["Ten reproducible research things" – advice on data quality, backups, documentation etc.](https://guereslib.github.io/ten-reproducible-research-things/)
-
-["Reproducible data analysis" (Stanford)](https://poldrack.github.io/psych-open-science-guide/4_reproducibleanalysis.html)
-
-["Tidy data" (Hadley Wickham)](https://www.jstatsoft.org/article/view/v059i10)
-
-["Writing robust code" (the Turing Way)](https://the-turing-way.netlify.app/reproducible-research/code-quality/code-quality-robust)
-
-["Data visualisation" (The Turing Way)](https://book.the-turing-way.org/reproducible-research/rdm/rdm-visualisation)
-
-["How to make scientific figures accessible to readers with color blindness"](https://www.ascb.org/diversity-equity-and-inclusion/how-to-make-scientific-figures-accessible-to-readers-with-color-blindness/)
+{% include accordion.html title1="Suggested resources" text1=additional_resources %}

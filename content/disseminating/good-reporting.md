@@ -34,16 +34,14 @@ Good reporting ensures clarity, accuracy, and transparency, enabling others to u
   
 {% include alert.html text="In what ways could improving your reporting practices benefit your research and its wider impact? " align="center" color="success" %}
 
+{% capture additional_resources %}
+- ["What is a reporting guideline?"/"Reporting guidelines for main study types" (Equator Network)](https://www.equator-network.org/about-us/what-is-a-reporting-guideline/)
+- [Transparent and accurate reporting increases reliability, utility, and impact of your research: reporting guidelines and the EQUATOR Network](https://bmcmedicine.biomedcentral.com/articles/10.1186/1741-7015-8-24)
+- [Equator reporting guidelines search tool](https://www.equator-network.org/reporting-guidelines/)
+{% endcapture %}
 
- 
+{% include accordion.html title1="Suggested resources" text1=additional_resources %}
 
-Suggested resources:   
-
-["What is a reporting guideline?"/"Reporting guidelines for main study types" (Equator Network)](https://www.equator-network.org/about-us/what-is-a-reporting-guideline/) 
-
-[Transparent and accurate reporting increases reliability, utility, and impact of your research: reporting guidelines and the EQUATOR Network](https://bmcmedicine.biomedcentral.com/articles/10.1186/1741-7015-8-24)
-
-[Equator reporting guidelines search tool](https://www.equator-network.org/reporting-guidelines/)
 
 
  

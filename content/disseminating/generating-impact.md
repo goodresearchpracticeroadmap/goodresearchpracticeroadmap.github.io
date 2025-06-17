@@ -26,14 +26,15 @@ title: Generating Impact
 
 {% include alert.html text=" Can you think of ways to maximise the impact of your research?" align="center" color="success" %}
 
+{% capture additional_resources %}
+- [CMVM Research Impact Guidance](https://medicine-vet-medicine.ed.ac.uk/our-research/cmvm-research-support/impact)
+- [Edinburgh Innovations – the University’s commercialisation service](https://edinburgh-innovations.ed.ac.uk/)
+- [Epigeum course - Research Impact: creating meaning and value](https://courses.epigeum.com/programme?id=120)
+{% endcapture %}
 
-Suggested resources:   
+{% include accordion.html title1="Suggested resources" text1=additional_resources %}
 
-[CMVM Research Impact Guidance](https://medicine-vet-medicine.ed.ac.uk/our-research/cmvm-research-support/impact)
 
-[Edinburgh Innovations – the University’s commercialisation service](https://edinburgh-innovations.ed.ac.uk/)
-
-[Epigeum course - Research Impact: creating meaning and value](https://courses.epigeum.com/programme?id=120)
 
 
  

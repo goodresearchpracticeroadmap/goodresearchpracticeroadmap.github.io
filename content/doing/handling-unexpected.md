@@ -30,13 +30,11 @@ title: Handling the Unexpected
 
     - Avenues for publishing this research may differ, but **publishing negative findings is just as important as publishing positive ones**.  
 
+{% capture additional_resources %}
+- [Publishing negative results is good for science](https://pmc.ncbi.nlm.nih.gov/articles/PMC11083460/)
+- [Why (and how) we should publish negative data](https://pmc.ncbi.nlm.nih.gov/articles/PMC6945059/)
+- [Publication bias: What are the challenges and can they be overcome?](https://pmc.ncbi.nlm.nih.gov/articles/PMC3341407/)
+- [Publication bias - Importance of studies with negative results!](https://pmc.ncbi.nlm.nih.gov/articles/PMC6573059/)
+{% endcapture %}
 
-Suggested resources: 
-
-[Publishing negative results is good for science](https://pmc.ncbi.nlm.nih.gov/articles/PMC11083460/)
-
-[Why (and how) we should publish negative data](https://pmc.ncbi.nlm.nih.gov/articles/PMC6945059/)
-
-[Publication bias: What are the challenges and can they be overcome?](https://pmc.ncbi.nlm.nih.gov/articles/PMC3341407/)
-
-[Publication bias - Importance of studies with negative results!](https://pmc.ncbi.nlm.nih.gov/articles/PMC6573059/)
+{% include accordion.html title1="Suggested resources" text1=additional_resources %}

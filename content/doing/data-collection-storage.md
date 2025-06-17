@@ -6,9 +6,9 @@ title: Data collection & storage
 
 **Having a robust system for data collection and storage helps ensure that you have all the data you need, can keep track of it, avoid data loss, and easily share it with others within or outside your organisation when needed.**
 
- 
 
-#Data collection#
+
+### Data collection
 
   - When collecting data, always **follow any plans or protocols** previously written as well as **standard operating procedures (SOPs)**, and ensure you understand them (ask for clarification if anything is unclear). 
 
@@ -18,9 +18,9 @@ title: Data collection & storage
 
   - **Always work with care** e.g. double-checking important calculations, thoroughly checking analysis code or practicing code review with your peers. Check you have everything you need to proceed with data collection **before** starting the process. 
 
- 
 
-#Data storage#
+
+### Data storage
 
   - Your data is only as secure as the place it is stored – it is strongly recommended that all your data is stored on **secure University storage platforms** such as DataStore and/or OneDrive or SharePoint. Data stored here is secure, backed up daily to multiple sites and files can be easily shared and collaborated on with your colleagues.  
 
@@ -35,9 +35,9 @@ title: Data collection & storage
 
 {% include alert.html text="Do you have a clear plan in place for your data collection and storage?" align="center" color="success" %}
 
+{% capture additional_resources %}
+- [Naming conventions guidance](https://data-protection.ed.ac.uk/records-management/practical-guidance/naming-conventions) (University of Edinburgh)
+- [University of Edinburgh data storage options](https://edwebcontent.ed.ac.uk/sites/default/files/atoms/files/quick_guide_3_-_data_storage_options_v1.4.pdf)
+{% endcapture %}
 
-Suggested resources: 
-
-[Naming conventions guidance](https://data-protection.ed.ac.uk/records-management/practical-guidance/naming-conventions) (University of Edinburgh) 
-
-[University of Edinburgh data storage options](https://edwebcontent.ed.ac.uk/sites/default/files/atoms/files/quick_guide_3_-_data_storage_options_v1.4.pdf)
+{% include accordion.html title1="Suggested resources" text1=additional_resources %}

@@ -19,7 +19,10 @@ Understand how negative research culture can lead to poor research practice, imp
 
   - Group leaders can have an important influence on group members’ awareness and uptake of good research practices. When **supervising others**, be sure to model, actively promote, and support good research practices. For supervising students, helpful resources include the IAD Postgraduate Research Supervisors website. 
 
-#### Suggested resources:
+{% capture additional_resources %}
 - ["What researchers think about research culture" (Wellcome)](https://wellcome.org/reports/what-researchers-think-about-research-culture#key-findings-7f91)
 - ["What is research culture?" (University of Edinburgh)](https://www.ed.ac.uk/research-innovation/research-cultures/what-is-research-culture#:~:text=Research%20culture%20encompasses%20the%20behaviours%2cresearch%20is%20conducted%20and%20communicated.)
 - ["Research culture: why every lab needs a handbook" (eLife)](https://elifesciences.org/articles/88853)
+{% endcapture %}
+
+{% include accordion.html title1="Suggested resources" text1=additional_resources %}

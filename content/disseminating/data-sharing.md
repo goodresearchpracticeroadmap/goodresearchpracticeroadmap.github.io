@@ -41,20 +41,14 @@ title: Data Sharing
  
 {% include alert.html text="Is your data suitable for sharing? In what ways can you share it?" align="center" color="success" %}
 
+{% capture additional_resources %}
+- [University of Edinburgh DataShare](https://datashare.ed.ac.uk/)
+- [GitLab code repository](https://docs.gitlab.com/ee/user/project/repository/)
+- ["Nine simple ways to make it easier to (re)use your data" (White et al.)](https://peerj.com/preprints/7v1/)
+- [Open Science Framework](http://osf.io/)
+- [FAIR principles](https://www.go-fair.org/fair-principles/)
+- ["Guide to choosing a data repository" (Australian Research Data Commons)](https://ardc.edu.au/resource/guide-to-choosing-a-data-repository/)
+- ["Data repository guidance" (Nature)](https://www.nature.com/sdata/policies/repositories)
+{% endcapture %}
 
-
-Suggested resources:   
-
-[University of Edinburgh DataShare](https://datashare.ed.ac.uk/)
-
-[GitLab code repository](https://docs.gitlab.com/ee/user/project/repository/)
-
-["Nine simple ways to make it easier to (re)use your data" (White et al.)](https://peerj.com/preprints/7v1/)
-
-[Open Science Framework](http://osf.io/)
-
-[FAIR principles](https://www.go-fair.org/fair-principles/)
-
-["Guide to choosing a data repository" (Australian Research Data Commons)](https://ardc.edu.au/resource/guide-to-choosing-a-data-repository/)
-
-["Data repository guidance" (Nature)](https://www.nature.com/sdata/policies/repositories)
+{% include accordion.html title1="Suggested resources" text1=additional_resources %}

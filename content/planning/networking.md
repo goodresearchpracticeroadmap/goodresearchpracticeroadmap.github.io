@@ -21,11 +21,12 @@ Use your **existing connections** (e.g., supervisors, line managers, thesis comm
  
 {% include alert.html text="Can you think of any other ways to start building your network?" align="center" color="success" %}
 
-
- Suggested resources: 
-
+{% capture additional_resources %}
 - [LinkedIn – how to ‘rock your profile’](https://www.linkedin.com/learning/rock-your-linkedin-profile/connect-to-opportunity-with-linkedin?u=50251009)
 - [IAD – mentoring circles](https://institute-academic-development.ed.ac.uk/research-roles/research-only-staff/career-management/mentor/mentoring-circles)
 - [UoE Centre for Open Learning – Staff Profiles ‘how-to’ Guide](https://col.ed.ac.uk/col-staff/staff-profile-how-to-guide)
 - [University of Edinburgh – Create a Research Explorer Profile](https://library.ed.ac.uk/research-support/research-information-management/pure/your-research-profile)
 - [University of Edinburgh – Pure for Postgraduate Students](https://library.ed.ac.uk/research-support/research-information-management/pure/postgraduate-students)
+{% endcapture %}
+
+{% include accordion.html title1="Suggested resources" text1=additional_resources %}

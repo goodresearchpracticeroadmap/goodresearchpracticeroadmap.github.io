@@ -6,9 +6,6 @@ title: Open Research
 
 **Open Research is an important movement in research to make it accessible, inclusive, equitable, and sustainable. It is underpinned by principles such as transparency, reproducibility, and collaboration.**  
 
-
-
-
 **Familiarise yourself with the concept of Open Research**
 
 - Open Research is a movement which aims to make scientific research (including publications, data, physical samples, and software) and its dissemination **accessible** to all levels of society, amateur or professional. It also ensures that the production of that knowledge itself is **inclusive, equitable and sustainable**. 
@@ -23,19 +20,15 @@ title: Open Research
 
 - Be aware that individual **funders may have their own policies, guidance and recommendations** around open research practices and tools, and you may have to additionally ensure you comply with these. 
 
-
-  
-
-Suggested resources:  
-
-- [UNESCO Open Science Toolkit)[https://www.unesco.org/en/open-science/toolkit]
+{% capture additional_resources %}
+- [UNESCO Open Science Toolkit](https://www.unesco.org/en/open-science/toolkit)
 - Crüwell, S., van Doorn, J., Etz, A., Makel, M. C., Moshontz, H., Niebaum, J. C., ... & Schulte-Mecklenbeck, M. (2019). Seven easy steps to open science. Zeitschrift für Psychologie. [https://dx.doi.org/10.1027/2151-2604/a000387](https://dx.doi.org/10.1027/2151-2604/a000387)
 - Kathawalla, U. K., Silverstein, P., & Syed, M. (2021). Easing into open science: A guide for graduate students and their advisors. Collabra: Psychology, 7(1). [https://doi.org/10.1525/collabra.18684](https://doi.org/10.1525/collabra.18684)
-Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Percie Du Sert, N., Simonsohn, U., Wagenmakers, E. J., Ware, J. J., & Ioannidis, J. P. A. (2017). A manifesto for reproducible science. Nature Human Behaviour, 1(1), 1–9.  [https://www.nature.com/articles/s41562-016-0021](https://www.nature.com/articles/s41562-016-0021)
+- Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Percie Du Sert, N., Simonsohn, U., Wagenmakers, E. J., Ware, J. J., & Ioannidis, J. P. A. (2017). A manifesto for reproducible science. Nature Human Behaviour, 1(1), 1–9.  [https://www.nature.com/articles/s41562-016-0021](https://www.nature.com/articles/s41562-016-0021)
 - IAD guidance on [Good Conduct in Authorship & Publication Practice](https://www.docs.hss.ed.ac.uk/iad/Researchers/Research_staff/Good_conduct_in_authorship_and_publication_practice_an_introductory_guide.pdf)
+{% endcapture %}
 
-
-
+{% include accordion.html title1="Suggested resources" text1=additional_resources %}
 
 **Apply principles of Open Research to your work**
 
@@ -57,14 +50,16 @@ Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., 
 
 - Understand author contributions using [CRediT](https://credit.niso.org/), and appropriately and fairly acknowledge all contributions to a research piece. 
 
-
-**Suggested resources**:  
-
+{% capture additional_resources_2 %}
 - [Directory of Open Access Preprint repositories](https://doapr.coar-repositories.org/repositories/)
 - [The pros and cons of preprints (blog)](https://blog.mdpi.com/2023/03/27/preprints-pros-cons/)
-- [Create a persistent researcher digital identifier: [orcid.org](https://orcid.org/) 
+- Create a persistent researcher digital identifier: [orcid.org](https://orcid.org/)
 - [University of Edinburgh CMVM Core Facilities Fair Publication Policy](https://www.ed.ac.uk/files/atoms/files/cmvm_core_facilities_fair_publication_policy_0.pdf)
-- [IAD guidance on Good Conduct in Authorship & Publication Practice](https://www.docs.hss.ed.ac.uk/iad/Researchers/Research_staff/Good_conduct_in_authorship_and_publication_practice_an_introductory_guide.pdf) - currently a PDF but online module to be released soon.  
-- [University of Edinburgh – Making your Research Open Access](https://library.ed.ac.uk/research-support/publish-research/open-access) 
+- [IAD guidance on Good Conduct in Authorship & Publication Practice](https://www.docs.hss.ed.ac.uk/iad/Researchers/Research_staff/Good_conduct_in_authorship_and_publication_practice_an_introductory_guide.pdf) - currently a PDF but online module to be released soon.
+- [University of Edinburgh – Making your Research Open Access](https://library.ed.ac.uk/research-support/publish-research/open-access)
 - [University of Edinburgh – Open Access Checklist for UoE Authors](https://library.ed.ac.uk/research-support/publish-research/open-access/open-access-checklist-for-uoe-authors)
 - [University of Edinburgh College of Medicine and Veterinary Medicine – Making your Research More Open](https://medicine-vet-medicine.ed.ac.uk/our-research/cmvm-research-support/open-research/make-your-research-more-open)
+{% endcapture %}
+
+{% include accordion.html title1="Suggested resources" text1=additional_resources_2 %}
+

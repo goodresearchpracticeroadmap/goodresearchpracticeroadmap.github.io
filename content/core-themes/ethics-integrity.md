@@ -17,7 +17,7 @@ In line with principles of transparency and fairness, always **acknowledge anyon
 
 For published work, ensure all authors get a chance to approve of the work before submission, and are kept up to date on progress. 
 
-Suggested resources:
+{% capture additional_resources %}
 - [Unviersity of Edinburgh Research Ethics Policy](https://uoe.sharepoint.com/sites/PolicyRepository/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPolicyRepository%2FShared%20Documents%2FResearch%5FEthics%5FPolicy%2Epdf&parent=%2Fsites%2FPolicyRepository%2FShared%20Documents&p=true&ga=1)
 - [Equality, Diversity and Inclusion for students](https://equality-diversity.ed.ac.uk/students)
 - [IAD training on Research Ethics and Integrity](https://institute-academic-development.ed.ac.uk/postgraduate/doctoral/courses/online-courses/research-ethics)
@@ -25,8 +25,9 @@ Suggested resources:
 - [Contributor Role Taxonomy (CRediT)](https://credit.niso.org/)
 - [Good Conduct in Authorship and Publication Practice](https://www.docs.hss.ed.ac.uk/iad/Researchers/Research_staff/Good_conduct_in_authorship_and_publication_practice_an_introductory_guide.pdf)
 - [University of Edinburgh Fair Authorship Guidance](https://library.ed.ac.uk/research-support/publishing-your-research/fair-authorship-guidance)
+{% endcapture %}
 
-
+{% include accordion.html title1="Suggested resources" text1=additional_resources %}
 
 **Determine whether your work requires specific ethical approval or considerations**
 - **Ethical approval is required for the use of animal or human subjects, or for the use of sensitive or personal human data**. If you are working with human participants, you will also need a project sponsor – at the University of Edinburgh, this is typically [ACCORD](https://accord.scot). 
@@ -46,16 +47,17 @@ For work requiring **ethical approval**, your line manager or supervisor should 
   - For research using animal subjects: refer to guidance from animal unit staff, bodies such as the National Centre for the Replacement, Refinement, & Reduction of Animals in Research (NC3Rs), Home Office licensing and the Animal (Scientific Procedures) Act 1986. 
 
   - For research using personal or sensitive data: the Data Protection Act (DPA), General Data Protection Regulation (GDPR).
- 
-Suggested resources:
+
+{% capture additional_resources_2 %}
 - [Human participants in research (UKRI)](https://www.ukri.org/manage-your-award/good-research-resource-hub/human-research-participants/)
 - [Research Ethics support (UoE, CMVM)](https://medicine-vet-medicine.ed.ac.uk/our-research/cmvm-research-support/research-ethics-integrity/research-ethics-support)
 - [The National Centre for the Replacement, Refinement & Reduction of Animals in Research (NC3Rs)](https://nc3rs.org.uk/)
 - [UK Government advice on research and testing using animals](https://www.gov.uk/guidance/research-and-testing-using-animals)
 - [University of Edinburgh Data Protection](https://data-protection.ed.ac.uk/)
 - [Working with sensitive data (UoE library guidance)](https://library.ed.ac.uk/research-support/research-data-service/during/sensitive-data)
+{% endcapture %}
 
-
+{% include accordion.html title1="Suggested resources" text1=additional_resources_2 %}
 
 **If things go wrong** 
 
@@ -81,11 +83,12 @@ Suggested resources:
 
 - In case of more **severe or prolonged mental or physical health difficulties** that may impact your work, consider instead reaching out to the [Disability and Learning Support Service](https://disability-learning-support-service.ed.ac.uk/) or [Occupational Health Services](https://health-safety.ed.ac.uk/occupational-health).
 
-Suggested resources:
-- [University of Edinburgh Research Misconduct guidance](https://research-office.ed.ac.uk/research-integrity/research-misconduct) 
+{% capture additional_resources_3 %}
+- [University of Edinburgh Research Misconduct guidance](https://research-office.ed.ac.uk/research-integrity/research-misconduct)
 - [CMVM Research Misconduct Informal Reporting Form](https://medicine-vet-medicine.ed.ac.uk/our-research/cmvm-research-support/research-ethics-integrity/research-misconduct-reporting-form?check_logged_in=1)
 - [University of Edinburgh Code of Practice for Supervisors and Research Students](https://www.ed.ac.uk/files/atoms/files/copsupervisorsresearchstudents.pdf)
 - [UKRIO – questionable research practices](https://ukrio.org/ukrio-resources/questionable-research-practices/)
 - [University of Edinburgh Health and Wellbeing Hub](https://www.ed.ac.uk/staff/health-wellbeing)
+{% endcapture %}
 
-  
+{% include accordion.html title1="Suggested resources" text1=additional_resources_3 %}

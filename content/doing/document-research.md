@@ -23,28 +23,16 @@ title: Document Research
 
  
 {% include alert.html text="What strategies can you use to improve the documentation of your project? " align="center" color="success" %}
- 
 
+{% capture additional_resources %}
+- [DMP templates for postgraduate research projects](https://researchdata.ox.ac.uk/dmp-templates)
+- [Advice on file naming (Data carpentries)](https://datacarpentry.org/rr-organization1/01-file-naming/index.html)
+- [University guidance on file naming conventions](https://data-protection.ed.ac.uk/records-management/practical-guidance/naming-conventions)
+- ["How do you record your research?" (University of Oxford)](https://www.it.ox.ac.uk/article/research-notetaking-and-elns)
+- ["Electronic lab notebooks" (Harvard)](https://datamanagement.hms.harvard.edu/collect-analyze/electronic-lab-notebooks)
+- ["How to make a data dictionary" (OSF support)](https://help.osf.io/article/217-how-to-make-a-data-dictionary)
+- [FAIRsharing metadata standards](https://fairsharing.org/)
+- ["Ten reproducible research things"](https://guereslib.github.io/ten-reproducible-research-things/) – advice on data quality, backups, documentation etc.
+{% endcapture %}
 
-
- Suggested resources:  
-
-[DMP templates for postgraduate research projects](https://researchdata.ox.ac.uk/dmp-templates)
-
-[Advice on file naming (Data carpentries)](https://datacarpentry.org/rr-organization1/01-file-naming/index.html)
-
-[University guidance on file naming conventions](https://data-protection.ed.ac.uk/records-management/practical-guidance/naming-conventions)
-
-["How do you record your research?" (University of Oxford)](https://www.it.ox.ac.uk/article/research-notetaking-and-elns)
-
-["Electronic lab notebooks" (Harvard)](https://datamanagement.hms.harvard.edu/collect-analyze/electronic-lab-notebooks) 
-
-["How to make a data dictionary" (OSF support)](https://help.osf.io/article/217-how-to-make-a-data-dictionary)
-
-[FAIRsharing metadata standards](https://fairsharing.org/)
-
-["Ten reproducible research things"](https://guereslib.github.io/ten-reproducible-research-things/) – advice on data quality, backups, documentation etc.  
-
- 
-
- 
+{% include accordion.html title1="Suggested resources" text1=additional_resources %}
