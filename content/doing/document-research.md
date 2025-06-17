@@ -4,7 +4,7 @@ nav_order: 3
 title: Document Research
 ---
 
-##Documenting your research thoroughly enables yourself and others to keep track of what has been done at any point, and later to verify and replicate your work##
+###Documenting your research thoroughly enables yourself and others to keep track of what has been done at any point, and later to verify and replicate your work###
 
   
 
