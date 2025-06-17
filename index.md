@@ -25,4 +25,4 @@ designed to help researchers, particularly early career researchers, learn about
 into their work. It contains core themes relevant to all research stages, as well as stage-specific themes relevant to
 the planning, doing, and dissemination of your work. Use the QR code below to access detailed explanations of each
 theme, including guidance on implementing good practices, and links to supporting resources." caption="Good Research
-Practice Roadmap" width="75%" %}
+Practice Roadmap" width="100%" %}
