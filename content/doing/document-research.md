@@ -4,10 +4,9 @@ nav_order: 3
 title: Document Research
 ---
 
-###Documenting your research thoroughly enables yourself and others to keep track of what has been done at any point, and later to verify and replicate your work###
+**Documenting your research thoroughly enables yourself and others to keep track of what has been done at any point, and later to verify and replicate your work**
 
   
-
   - Think about the **types of information** you'll need to record ahead of time e.g. ideas and plans, information about methods, recording experiments, recording results, recording how data were analysed, discussions with supervisors and collaborators.  
 
   - Document everything related to the data itself, about how it was collected, any data analysis done, and carefully store study metadata (see data collection and storage section below). 
@@ -23,12 +22,10 @@ title: Document Research
   - Learn about the importance of **documenting data** and learn more formal **organisational techniques**, e.g. adhering to metadata standards and preparing data dictionaries. 
 
  
-
+{% include alert.html text="What strategies can you use to improve the documentation of your project? " align="center" color="success" %}
  
 
-What strategies can you use to improve the documentation of your project? 
 
-  
 
  Suggested resources:  
 
