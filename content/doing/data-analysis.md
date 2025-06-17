@@ -1,7 +1,7 @@
 ---
 section: Doing
 nav_order: 1
-title: Data Manipulation & Analysis
+title: Data Analysis
 ---
 
 
