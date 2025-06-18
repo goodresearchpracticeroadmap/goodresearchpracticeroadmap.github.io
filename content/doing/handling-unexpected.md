@@ -1,6 +1,6 @@
 ---
-section_id: Doing
-nav_order: 4
+section: Doing
+nav_order: 3
 title: Handling the Unexpected
 ---
 
