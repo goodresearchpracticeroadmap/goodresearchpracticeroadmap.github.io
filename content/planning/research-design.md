@@ -4,9 +4,7 @@ nav_order: 3
 title: Research Design
 ---
 
-**Designing your research and experiments correctly ahead of time and understanding the core principles of experimental design will increase the reproducibility and usefulness of your research**
-
-
+{% include roadmap-zoom-title.html cssClass="research-design" title="Designing your research and experiments correctly ahead of time and understanding the core principles of experimental design will increase the reproducibility and usefulness of your research" %}
 
 **Familiarise yourself with core principles of study design**
 

@@ -1,6 +1,23 @@
-/* add your tweaks here! */
-
+/* all accordions bold */
 .accordion .accordion-button {
   font-weight: 700;
   font-size: 17.6px;
+}
+
+/* roadmap zoom title view */
+.roadmap-zoom-title .crop-container {
+  width: 140px;
+  height: 140px;
+  overflow: hidden;
+  border-radius: 30px;
+  float:right;
+
+  img {
+    width: 946px;
+    height: 524px;
+    
+    &.research-design {
+      margin: -45px 0px 0px -282.5px;
+    }
+  }
 }
