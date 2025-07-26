@@ -16,11 +16,9 @@ title: Research Design
 
 - Consider design choices like sample size, or when data sampling should end. 
 
-- Think about which controls or control conditions are most appropriate for your study. 
+- Think about which controls or control conditions are most appropriate for your study.
 
- 
-
-**How can you apply these principles to your research project?**
+{% include alert.html text="How can you apply these principles to your research project?" align="center" color="success" %}
 
 {% capture additional_resources %}
 - [Experimental design and data analysis (UoE School of Biomedical Sciences)](https://www.ed.ac.uk/biomedical-sciences/experimental-design-and-data-analysis/)
