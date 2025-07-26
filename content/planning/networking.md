@@ -4,7 +4,7 @@ nav_order: 2
 title: Networking
 ---
 
-**Building a network of peers and potential collaborators is a great way to build academic and/or professional relationships, to exchange information and stay up to date with opportunities in your field, and to build a community of like-minded researchers.** 
+{% include roadmap-zoom-title.html cssClass="networking" title="Building a network of peers and potential collaborators is a great way to build academic and/or professional relationships, to exchange information and stay up to date with opportunities in your field, and to build a community of like-minded researchers." %}
 
  - Regularly **interact with other researchers** in your field (e.g., at departmental talks, conferences, interest groups) or researchers concerned with your broader interests (e.g. reproducibility/integrity, education). 
 

@@ -4,7 +4,7 @@ nav_order: 4
 title: Document Research
 ---
 
-**Documenting your research thoroughly enables yourself and others to keep track of what has been done at any point, and later to verify and replicate your work**
+{% include roadmap-zoom-title.html cssClass="document-research" title="Documenting your research thoroughly enables yourself and others to keep track of what has been done at any point, and later to verify and replicate your work" %}
 
   
   - Think about the **types of information** you'll need to record ahead of time e.g. ideas and plans, information about methods, recording experiments, recording results, recording how data were analysed, discussions with supervisors and collaborators.  

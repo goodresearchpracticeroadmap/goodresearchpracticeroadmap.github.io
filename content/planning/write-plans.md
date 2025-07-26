@@ -4,7 +4,7 @@ nav_order: 1
 title: Write Plans
 ---
 
-**Pre-registration and protocols are a method to write and/or publish a record of your hypotheses and methodology before undertaking any analysis. They help you adequately plan your research ahead of time and help combat common detrimental research practices.** 
+{% include roadmap-zoom-title.html cssClass="write-plans" title="Pre-registration and protocols are a method to write and/or publish a record of your hypotheses and methodology before undertaking any analysis. They help you adequately plan your research ahead of time and help combat common detrimental research practices." %}
 
   
 ### Prepare a Data Management Plan 

@@ -4,8 +4,7 @@ nav_order: 5
 title: Good Reporting
 ---
 
-Good reporting ensures clarity, accuracy, and transparency, enabling others to understand, evaluate, and replicate your research effectively. Adhering to reporting standards for your field ensures the credibility and integrity of your work, makes it easier to review, as well as to replicate and to build upon your findings. 
-
+{% include roadmap-zoom-title.html cssClass="good-reporting" title="Good reporting ensures clarity, accuracy, and transparency, enabling others to understand, evaluate, and replicate your research effectively. Adhering to reporting standards for your field ensures the credibility and integrity of your work, makes it easier to review, as well as to replicate and to build upon your findings." %}
 
   - Use a system such as the [Equator Network](https://www.equator-network.org/reporting-guidelines/) to identify **specific reporting guidelines for your study type and research field**. 
 
