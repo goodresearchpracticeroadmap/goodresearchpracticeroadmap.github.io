@@ -4,9 +4,7 @@ nav_order: 2
 title: Data Analysis
 ---
 
-
-**Following proper procedures for data analysis and following appropriate methods ensure the validity and reliability of your findings, leading to credible and reproducible results.**
-
+{% include roadmap-zoom-title.html cssClass="data-analysis" title="Following proper procedures for data analysis and following appropriate methods ensure the validity and reliability of your findings, leading to credible and reproducible results." %}
  
   - **Follow any analysis methods planned in any protocols or preregistrations**, and if deviations are required, **document these**. 
 

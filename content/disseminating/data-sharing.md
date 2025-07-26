@@ -4,7 +4,7 @@ nav_order: 1
 title: Data Sharing
 ---
 
-**Data sharing is critical for transparency and reproducibility of your research, as well as increasing its utility for other researchers, promoting collaborations and improving research efficiency.**
+{% include roadmap-zoom-title.html cssClass="data-sharing" title="Data sharing is critical for transparency and reproducibility of your research, as well as increasing its utility for other researchers, promoting collaborations and improving research efficiency." %}
 
   - Plans for data sharing should ideally be made at the **start of the project**. 
 

@@ -4,9 +4,7 @@ nav_order: 1
 title: Data collection & storage
 ---
 
-**Having a robust system for data collection and storage helps ensure that you have all the data you need, can keep track of it, avoid data loss, and easily share it with others within or outside your organisation when needed.**
-
-
+{% include roadmap-zoom-title.html cssClass="data-collection-storage" title="Having a robust system for data collection and storage helps ensure that you have all the data you need, can keep track of it, avoid data loss, and easily share it with others within or outside your organisation when needed." %}
 
 ### Data collection
 

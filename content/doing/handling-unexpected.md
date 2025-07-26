@@ -4,7 +4,7 @@ nav_order: 3
 title: Handling the Unexpected
 ---
 
-**In research projects, things might not always go as planned. You may not manage to meet your initial objectives, make mistakes, face unexpected issues, get surprising results, or deal with technical problems. These challenges can occur, but they can be managed.** 
+{% include roadmap-zoom-title.html cssClass="handling-unexpected" title="In research projects, things might not always go as planned. You may not manage to meet your initial objectives, make mistakes, face unexpected issues, get surprising results, or deal with technical problems. These challenges can occur, but they can be managed." %} 
 
   - Before or during your projects, you may want to **consider what could theoretically go wrong** and have **contingency plans** in mind for when these eventualities do occur. Discuss these with people involved, including your supervisor or line manager. 
 

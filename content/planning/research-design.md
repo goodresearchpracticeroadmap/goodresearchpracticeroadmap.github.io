@@ -4,9 +4,7 @@ nav_order: 3
 title: Research Design
 ---
 
-**Designing your research and experiments correctly ahead of time and understanding the core principles of experimental design will increase the reproducibility and usefulness of your research**
-
-
+{% include roadmap-zoom-title.html cssClass="research-design" title="Designing your research and experiments correctly ahead of time and understanding the core principles of experimental design will increase the reproducibility and usefulness of your research" %}
 
 **Familiarise yourself with core principles of study design**
 
@@ -18,11 +16,9 @@ title: Research Design
 
 - Consider design choices like sample size, or when data sampling should end. 
 
-- Think about which controls or control conditions are most appropriate for your study. 
+- Think about which controls or control conditions are most appropriate for your study.
 
- 
-
-**How can you apply these principles to your research project?**
+{% include alert.html text="How can you apply these principles to your research project?" align="center" color="success" %}
 
 {% capture additional_resources %}
 - [Experimental design and data analysis (UoE School of Biomedical Sciences)](https://www.ed.ac.uk/biomedical-sciences/experimental-design-and-data-analysis/)

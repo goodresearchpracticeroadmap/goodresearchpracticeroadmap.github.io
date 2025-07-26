@@ -4,8 +4,7 @@ nav_order: 2
 title: Generating Impact
 ---
 
-**Research impact is the way research makes a difference in society. It can influence policies and lead to improvements in health, quality of life, or environmental protection.**
-
+{% include roadmap-zoom-title.html cssClass="generating-impact" title="Research impact is the way research makes a difference in society. It can influence policies and lead to improvements in health, quality of life, or environmental protection." %}
   
   - Aim to **present your work and any key findings regularly** (e.g., at external conferences or departmental meetings). In addition, consider disseminating your findings at both **specialist events or conferences as well as broader audiences**, such as non-specialist or industry-linked events. If there is anything potentially sensitive, or commercialisable, in the material, discuss with the appropriate teams beforehand. 
 
