@@ -49,9 +49,7 @@ title: Research Design
 
 - **Learn about the negative impacts of poor practice** such as flexible analysis, P-hacking, fishing, and HARKing (Hypothesising After Results are Known). 
 
- 
-
-**Is your research designed objectively? Can you identify any potential sources of bias within your project?**
+{% include alert.html text="Is your research designed objectively? Can you identify any potential sources of bias within your project?" align="center" color="success" %}
 
 {% capture additional_resources_2 %}
 - [Experimental design and data analysis (UoE School of Biomedical Sciences)](https://www.ed.ac.uk/biomedical-sciences/experimental-design-and-data-analysis/)

@@ -17,6 +17,9 @@ In line with principles of transparency and fairness, always **acknowledge anyon
 
 For published work, ensure all authors get a chance to approve of the work before submission, and are kept up to date on progress. 
 
+{% include figure.html img="research_integrity.jpg" alt="Image shows the five principles of research integrity: reliability, honesty, transparency, respect, and accuntability.sw  " caption="Armond, Anna Catharina V. et al. (2024). Research Integrity definitions and challenges. Journal of Clinical Epidemiology, Volume 171, 111367.
+" width="100%" %}
+
 {% capture additional_resources %}
 - [Unviersity of Edinburgh Research Ethics Policy](https://uoe.sharepoint.com/sites/PolicyRepository/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FPolicyRepository%2FShared%20Documents%2FResearch%5FEthics%5FPolicy%2Epdf&parent=%2Fsites%2FPolicyRepository%2FShared%20Documents&p=true&ga=1)
 - [Equality, Diversity and Inclusion for students](https://equality-diversity.ed.ac.uk/students)
@@ -37,6 +40,9 @@ For published work, ensure all authors get a chance to approve of the work befor
 - Specific **restrictions around ethics** may need to be considered at different stages of your work (planning, data collection and analysis, data sharing). Keep track of these at all stages and adapt to them as you progress through your research project. 
 
 For work requiring **ethical approval**, your line manager or supervisor should be your first port of call, but you may need to have input from your thesis committee, other research staff, your department heads, or external bodies such as research funders. 
+
+{% include figure.html img="What we do Twitter card.png" alt="Image showing a collage of 8 images, four wide by two high. The images from top left are: a woman looking through a microscope, two white mice, a petri dish, a group of three people in a lab environment, a macaque monkey, an in vitro plate containing a clear red solution with a multipipette above it, a researcher holding a small brown mouse and three zebrafish." caption="N3CRs. What We Do, the National Centre for the Replacement, Refinement, and Reduction of Animals in Research. (Retrieved June 2025 from: https://nc3rs.org.uk/who-we-are/what-we-do.
+" width="100%" %}
 
 - Important resources: 
 
@@ -75,6 +81,7 @@ For work requiring **ethical approval**, your line manager or supervisor should 
 
   - Misconduct can include data falsification or fabrication, plagiarism, misrepresentation of findings, breach of duty of care, or a failure to meet legal, ethical, or professional obligations.  
 
+{% include figure.html img="Simon-Kolstoe-QRPs-image.png" alt="The image shows three double arrows displayed vertically. The top arrow from left to right reads: errors, misunderstanding, sloppinessK, incompetence, falsification, fabrication, and criminality. The middle double arrow is labelled mistake on the left and deliberate on the right. The third double arrow is labelled time pressure on the left and financial pressure on the right.sw  " caption="Simon Kolstoe. Defining the Spectrum of Questionable Research Practices (QRPs), UKRIO, 2023 https://doi.org/10.37672/UKRIO.2023.02.QRPs" width="100%" %}
 - Take steps to ensure that you **avoid (intentionally or unintentionally) engaging in research misconduct or questionable research practices**, for instance ensuring that you fully understand what constitutes plagiarism or falsification.  
 
 - In case you find that misconduct has taken place, **inform yourself on how this should be reported**, and whether this should be reported by yourself or instead referred to your line manager. 

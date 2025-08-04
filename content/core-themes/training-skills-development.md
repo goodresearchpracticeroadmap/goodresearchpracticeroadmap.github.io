@@ -4,6 +4,9 @@ nav_order: 1
 title: Training & Skills Development
 ---
 
+{% include figure.html img="vitae-researcher-development-framework-rdf-domains-graphic-2011-1.jpg" alt="Image showing a circle divided into four quadrants representing four domains. Domain A is knowledge and intellectual abilities, domain B is personal effectiveness. Domain C is research governance and organisation and domain D is engagement, influence and knowledge impact.sw  " caption="Vitae Researcher and Development Framework. Accessed June 2025 from https://vitae.ac.uk/vitae-researcher-development-framework/
+" width="100%" %}
+
 **Developing technical and transferable skills can be hugely beneficial for your current position as well as your future career path. There are many useful resources and training courses available at the University and beyond, to develop these skills.**
 
 - Determine which skills are needed for different stages of your research project: e.g., **technical skills** (e.g., laboratory skills, coding languages), **data analysis and statistics**, **dissemination of findings** (writing, public speaking), **leadership skills**, **project management**, **teaching**.   
