@@ -4,6 +4,9 @@ nav_order: 2
 title: Research culture and citizenship
 ---
 
+{% include figure.html img="wms_researchculture_6_amended.jpg" alt="Image showing a tree with three main branches named valuing our people, valuing our community and valuing our research. There are smaller branches related to these three main themes which include career and talent development, wellbeing, collegiality and citizenship, collaboration, research integrity, research process and open research" caption="Warwick Medical School: Research Culture. Accessed June 2025 from https://warwick.ac.uk/fac/sci/med/research/culture/
+" width="100%" %}
+
 **Research culture embodies the behaviours, values, expectations, attitudes and norms that define our research communities. Positive research cultures foster an environment of integrity, collaboration, and continuous learning, which drives high-quality and ethical research. Research citizenship emphasises collaboration and community engagement which strengthens the integrity and impact of your research.**
 
  

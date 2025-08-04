@@ -6,7 +6,9 @@ title: Networking
 
 {% include roadmap-zoom-title.html cssClass="networking" title="Building a network of peers and potential collaborators is a great way to build academic and/or professional relationships, to exchange information and stay up to date with opportunities in your field, and to build a community of like-minded researchers." %}
 
- - Regularly **interact with other researchers** in your field (e.g., at departmental talks, conferences, interest groups) or researchers concerned with your broader interests (e.g. reproducibility/integrity, education). 
+{% include figure.html img="networking.png" alt="Illustration of a world map overlaid with a digital network of connected dots and lines. Over various regions, circular icons display diverse cartoon-style avatars of people, symbolizing a global, interconnected community. The nodes and connections emphasize international collaboration, data sharing, and networking across geographic boundaries." caption="Accessed June 2025 from https://www.ptglab.com/news/blog/8-tips-for-networking-at-scientific-conferences/" width="100%" %}
+
+- Regularly **interact with other researchers** in your field (e.g., at departmental talks, conferences, interest groups) or researchers concerned with your broader interests (e.g. reproducibility/integrity, education). 
 
 - Ensure you **regularly attend events** such as conferences, journal clubs, events at organisations relevant to your research topic or research interests, career days etc. 
 

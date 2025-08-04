@@ -10,11 +10,13 @@ title: Research Design
 
 - Learn about different types of study design and consider how this design impacts your data collection and/or analysis. 
 
+- Consider how to **develop your research question**, and invest time into expressing it clearly and refining it.
+
 - For quantitative and qualitative research, consider different research methodologies available to you, determine which best suit your research objectives and consider the type of data they will produce. Make sure you are equipped to handle these data and remember to allow for some flexibility in your design in case your data or understanding of the data evolves over time. 
 
 - Familiarise yourself with the concepts and principles around developing, testing, and rejecting/confirming hypotheses, and understand differences between confirmatory vs. exploratory research. 
 
-- Consider design choices like sample size, or when data sampling should end. 
+- Consider design choices like sample size, or when data sampling should end. You should **calculate and be able to justify your chosen sample size**.
 
 - Think about which controls or control conditions are most appropriate for your study.
 
@@ -49,9 +51,7 @@ title: Research Design
 
 - **Learn about the negative impacts of poor practice** such as flexible analysis, P-hacking, fishing, and HARKing (Hypothesising After Results are Known). 
 
- 
-
-**Is your research designed objectively? Can you identify any potential sources of bias within your project?**
+{% include alert.html text="Is your research designed objectively? Can you identify any potential sources of bias within your project?" align="center" color="success" %}
 
 {% capture additional_resources_2 %}
 - [Experimental design and data analysis (UoE School of Biomedical Sciences)](https://www.ed.ac.uk/biomedical-sciences/experimental-design-and-data-analysis/)

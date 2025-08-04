@@ -6,6 +6,8 @@ title: Handling the Unexpected
 
 {% include roadmap-zoom-title.html cssClass="handling-unexpected" title="In research projects, things might not always go as planned. You may not manage to meet your initial objectives, make mistakes, face unexpected issues, get surprising results, or deal with technical problems. These challenges can occur, but they can be managed." %} 
 
+{% include figure.html img="look-for-the-positives-in-negative-results.jpg" alt="Stylized illustration of a person standing atop a pyramid made of blocks, most marked with red or black Xs, symbolizing failed or negative results. The person holds up a single block with a red checkmark, representing a successful or validated outcome. The background is dark, emphasizing contrast between failure and discovery, suggesting the value of learning from negative results in research or experimentation." caption="Look for the Positive in Negative Research Results. American Physiological Society. Accessed June 2025 from https://www.physiology.org/publications/news/the-physiologist-magazine/2024/september/look-for-the-positive-in-negative-research-results." width="100%" %}
+
   - Before or during your projects, you may want to **consider what could theoretically go wrong** and have **contingency plans** in mind for when these eventualities do occur. Discuss these with people involved, including your supervisor or line manager. 
 
   - Be aware of your initial research objectives and the type of data or results you planned to or thought you would achieve, so that you are able to **determine when something is indeed unexpected**, as early on as possible. 
@@ -20,7 +22,7 @@ title: Handling the Unexpected
 
   - Some research may produce **negative findings**, i.e., the thing that you were testing did not have an effect or had an opposite effect to what you expected. 
 
-    - Check your methods and results, making sure that e.g. you had appropriate controls in place, and they behaved as expected, or rule out equipment/recording errors 
+    - Check your methods and results, making sure that e.g. you had **appropriate controls in place**, and they behaved as expected, or rule out equipment/recording errors 
 
     - It is important to determine the **source of this discrepancy**, i.e., why you didn’t find what you expected. This finding could be interesting or important and/or help avoid others repeating the same thing.  
 

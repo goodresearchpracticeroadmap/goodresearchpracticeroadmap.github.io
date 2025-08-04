@@ -13,7 +13,9 @@ title: Write Plans
 
 - Your DMP should be regularly **reviewed and amended** if necessary – they are flexible and can be adapted as your project progresses or changes focus 
 
-- A DMP should include details of the types of data you will generate, the anticipated volume of your data, where data will be stored (short and long term), how data will be shared (if appropriate) and how you will make your data open - **‘as open as possible, as closed as necessary** is the phrase used by the European Research Executive Agency to describe their Open Science principles. 
+- A DMP should include details of the types of data you will generate, the anticipated volume of your data, where data will be stored (short and long term), how data will be shared (if appropriate) and how you will make your data open - **‘as open as possible, as closed as necessary** is the phrase used by the European Research Executive Agency to describe their Open Science principles.
+ 
+{% include figure.html img="Research-data-lifecycle.png" alt="Circular image with 8 segments showing the stages of the research data lifecyle. From clockwise these stages are: Plan (orange), Collect (yellow), Store (dark green), Analyse (turquoise), Describe (aqua blue), Archive (royal blue), Share (aubergine), Re-use (red)." caption="What is Research Data Management? TU Berlin. Accessed June 2025 from https://www.tu.berlin/en/ub/szf/tips-tools/what-is-research-data-management." %}
 
 {% capture additional_resources %}
 - [UoE research Data Service guidance on DMPs](https://library.ed.ac.uk/research-support/research-data-service/before/writing-a-data-management-plan)
