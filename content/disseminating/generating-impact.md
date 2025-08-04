@@ -5,7 +5,9 @@ title: Generating Impact
 ---
 
 {% include roadmap-zoom-title.html cssClass="generating-impact" title="Research impact is the way research makes a difference in society. It can influence policies and lead to improvements in health, quality of life, or environmental protection." %}
-  
+
+{% include figure.html img="what-is-research-impact.png" alt="Infographic titled “What is research impact?” with a central circle surrounded by twelve labeled segments, each representing a different type of impact: Capacity or preparedness, Understanding and awareness, Attitudinal, Economic, Environmental, Health and well-being, Policy, Decision-making and behaviour, Cultural, Other social impacts. Each category is illustrated with a colored icon and radiates outward like spokes from the center, visually emphasizing the broad and multifaceted effects research can have on society." caption="What is Research Impact. Accessed June 2025 from https://vitae.ac.uk/vitae-researcher-development-framework/" height="100%" %}
+
   - Aim to **present your work and any key findings regularly** (e.g., at external conferences or departmental meetings). In addition, consider disseminating your findings at both **specialist events or conferences as well as broader audiences**, such as non-specialist or industry-linked events. If there is anything potentially sensitive, or commercialisable, in the material, discuss with the appropriate teams beforehand. 
 
   - Understand the benefits of **interdisciplinary research**, which brings together experts from different fields, allowing them to tackle bigger or more complex problems using a variety of methods. 

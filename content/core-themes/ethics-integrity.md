@@ -81,7 +81,7 @@ For work requiring **ethical approval**, your line manager or supervisor should 
 
   - Misconduct can include data falsification or fabrication, plagiarism, misrepresentation of findings, breach of duty of care, or a failure to meet legal, ethical, or professional obligations.  
 
-{% include figure.html img="Simon-Kolstoe-QRPs-image.png" alt="The image shows three double arrows displayed vertically. The top arrow from left to right reads: errors, misunderstanding, sloppinessK, incompetence, falsification, fabrication, and criminality. The middle double arrow is labelled mistake on the left and deliberate on the right. The third double arrow is labelled time pressure on the left and financial pressure on the right.sw  " caption="Simon Kolstoe. Defining the Spectrum of Questionable Research Practices (QRPs), UKRIO, 2023 https://doi.org/10.37672/UKRIO.2023.02.QRPs" width="100%" %}
+{% include figure.html img="Simon-Kolstoe-QRPs-image.png" alt="The image shows three double arrows displayed vertically. The top arrow from left to right reads: errors, misunderstanding, sloppinessK, incompetence, falsification, fabrication, and criminality. The middle double arrow is labelled mistake on the left and deliberate on the right. The third double arrow is labelled time pressure on the left and financial pressure on the right.sw  " caption="Simon Kolstoe. Defining the Spectrum of Questionable Research Practices (QRPs), UKRIO, 2023 https://doi.org/10.37672/UKRIO.2023.02.QRPs" %}
 - Take steps to ensure that you **avoid (intentionally or unintentionally) engaging in research misconduct or questionable research practices**, for instance ensuring that you fully understand what constitutes plagiarism or falsification.  
 
 - In case you find that misconduct has taken place, **inform yourself on how this should be reported**, and whether this should be reported by yourself or instead referred to your line manager. 
@@ -93,6 +93,7 @@ For work requiring **ethical approval**, your line manager or supervisor should 
 {% capture additional_resources_3 %}
 - [University of Edinburgh Research Misconduct guidance](https://research-office.ed.ac.uk/research-integrity/research-misconduct)
 - [CMVM Research Misconduct Informal Reporting Form](https://medicine-vet-medicine.ed.ac.uk/our-research/cmvm-research-support/research-ethics-integrity/research-misconduct-reporting-form?check_logged_in=1)
+- [IAD Good Conduct in Authorship and Publication Practice](https://www.docs.hss.ed.ac.uk/iad/Researchers/Research_staff/Good_conduct_in_authorship_and_publication_practice_an_introductory_guide.pdf)
 - [University of Edinburgh Code of Practice for Supervisors and Research Students](https://www.ed.ac.uk/files/atoms/files/copsupervisorsresearchstudents.pdf)
 - [UKRIO – questionable research practices](https://ukrio.org/ukrio-resources/questionable-research-practices/)
 - [University of Edinburgh Health and Wellbeing Hub](https://www.ed.ac.uk/staff/health-wellbeing)

@@ -49,6 +49,7 @@ title: Data Sharing
 - [FAIR principles](https://www.go-fair.org/fair-principles/)
 - ["Guide to choosing a data repository" (Australian Research Data Commons)](https://ardc.edu.au/resource/guide-to-choosing-a-data-repository/)
 - ["Data repository guidance" (Nature)](https://www.nature.com/sdata/policies/repositories)
+- [Why don't we share data and code? Perceived barriers and benefits to public archiving practices](https://royalsocietypublishing.org/doi/10.1098/rspb.2022.1113#d1e741)
 {% endcapture %}
 
 {% include accordion.html title1="Suggested resources" text1=additional_resources %}

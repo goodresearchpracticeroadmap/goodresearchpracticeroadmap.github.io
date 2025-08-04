@@ -6,6 +6,8 @@ title: Open Research
 
 **Open Research is an important movement in research to make it accessible, inclusive, equitable, and sustainable. It is underpinned by principles such as transparency, reproducibility, and collaboration.**  
 
+{% include figure.html img="What is open science.png" alt="Circular infographic showing the research lifecycle with OSF (Open Science Framework) at the center. The outer ring represents stages of the research process, labeled clockwise as: Creative Design, Resourcing, Planning, Conducting, Interpreting, Reporting, Publishing, and Discussing. Radiating outward from each stage are related open science practices: Creative Design - Synthesis, Participatory Research; Resourcing - Data Management Plans; Planning - Preregistration, Team Science; Conducting - Open Notebooks, Open Protocols; Interpreting - Open Materials, Preprints; Reporting - Open Code, Open Data; Publishing - Open Peer Review, Open Access; Discussing - Corrections" caption= "What is Open Science? Center for Open Science. Accessed June 2025 from https://www.cos.io/open-science/" width="100%" %}
+
 **Familiarise yourself with the concept of Open Research**
 
 - Open Research is a movement which aims to make scientific research (including publications, data, physical samples, and software) and its dissemination **accessible** to all levels of society, amateur or professional. It also ensures that the production of that knowledge itself is **inclusive, equitable and sustainable**. 
@@ -32,6 +34,8 @@ title: Open Research
 
 **Apply principles of Open Research to your work**
 
+{% include figure.html img="Open-science-UNESCO.png" alt="Circular infographic titled Open Science represented at the center of a four-piece puzzle surrounded by icons and labels. Each puzzle piece represents a key pillar of open science: Open Scientific Knowledge (green segment): Includes open research data, open educational resources, scientific publications, open source software and code, and open hardware. Open Science Infrastructures (pink segment): Covers both virtual and physical infrastructures that support open science practices. Open Engagement of Societal Actors (orange segment): Highlights crowdfunding, crowdsourcing, scientific volunteering, and citizen and participatory science. Open Dialogue with Other Knowledge Systems (blue segment): Emphasizes engagement with Indigenous peoples, marginalized scholars, and local communities. The design visually connects these four interlocking elements around the central principle of Open Science, reinforcing inclusion, transparency, accessibility, and collaboration" caption= "UNESCO Open Science Toolkit. Accessed June 2025 from https://unesdoc.unesco.org/ark:/48223/pf0000387983" %}
+
 - Consider your options for access early in the research process, ideally before paper submission. Consider which Open Access options are available to your specific work and whether you can **share your data**. You should discuss this with your group leader.  
 
 - Data may be published through dedicated open-access publishers or commercial publishers, who publish open-access as well as subscription-based journals. **Open Access Publishing is a requirement of many funders and [REF](https://2029.ref.ac.uk/about/how-to-get-involved/ref-2029-open-access-policy-consultation/)**.
@@ -51,6 +55,7 @@ title: Open Research
 - Understand author contributions using [CRediT](https://credit.niso.org/), and appropriately and fairly acknowledge all contributions to a research piece. 
 
 {% capture additional_resources_2 %}
+- [Don't try to do it all at once - the Buffet approach to Open Science](https://cogtales.wordpress.com/2023/04/16/the-buffet-approach-to-open-science/)
 - [Directory of Open Access Preprint repositories](https://doapr.coar-repositories.org/repositories/)
 - [The pros and cons of preprints (blog)](https://blog.mdpi.com/2023/03/27/preprints-pros-cons/)
 - Create a persistent researcher digital identifier: [orcid.org](https://orcid.org/)
