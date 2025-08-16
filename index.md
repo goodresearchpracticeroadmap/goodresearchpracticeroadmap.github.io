@@ -2,11 +2,11 @@
 title: Roadmap
 layout: lesson-content
 ---
-{% include figure.html img="good-research-practice-roadmap.png" alt="This Good Research Practice (GRP) roadmap is
-designed to help researchers, particularly early career researchers, learn about and integrate good research practices
-into their work. It contains core themes relevant to all research stages, as well as stage-specific themes relevant to
-the planning, doing, and dissemination of your work. Use the QR code below to access detailed explanations of each
-theme, including guidance on implementing good practices, and links to supporting resources." caption="Good Research
+
+{% include figure.html img="good-research-practice-roadmap.png" alt="A roadmap of good research practice with three
+stages: Planning (research design, writing plans, networking), Doing (handling the unexpected, data analysis, data
+collection and storage, document research), and Disseminating (good reporting, data sharing, generating impact). Core
+themes include research culture, skills development, ethics, and open research." caption="Good Research
 Practice Roadmap" width="100%" %}
 
 Welcome to the Good Research Practice (GRP) Roadmap. As researchers, it is our responsibility to follow good research
