@@ -6,6 +6,9 @@ title: Data collection & storage
 
 {% include roadmap-zoom-title.html cssClass="data-collection-storage" title="Having a robust system for data collection and storage helps ensure that you have all the data you need, can keep track of it, avoid data loss, and easily share it with others within or outside your organisation when needed." %}
 
+{% include figure.html img="Data_management_-_The_Passport_For_Open_Science_10.png" alt="A circular flow diagram illustrating the data management lifecycle using leaf-themed illustrations. The six stages, moving clockwise, are: Collection – Represented by a wheelbarrow full of leaves; Description – Shown with a pencil and two leaves resembling writing or labelling; Storage – Depicted as a filing cabinet shaped like a leaf; Processing and analysis – Illustrated with a magnifying glass examining a leaf; Archiving – Shown as an open book with pressed leaves; Making data available – Represented by a file folder containing leaves; Each stage is connected with red arrows forming a circular flow, suggesting a continuous data management process." caption="Data collection and storage. Accessed June 2025 from https://upload.wikimedia.org/wikipedia/commons/4/4d/Data_management_-_The_Passport_For_Open_Science_10.png
+" width="60%" %}
+
 ### Data collection
 
   - When collecting data, always **follow any plans or protocols** previously written as well as **standard operating procedures (SOPs)**, and ensure you understand them (ask for clarification if anything is unclear). 
@@ -16,6 +19,7 @@ title: Data collection & storage
 
   - **Always work with care** e.g. double-checking important calculations, thoroughly checking analysis code or practicing code review with your peers. Check you have everything you need to proceed with data collection **before** starting the process. 
 
+  
 
 
 ### Data storage
@@ -31,7 +35,7 @@ title: Data collection & storage
   - You should keep a **‘golden copy’** of your raw data which should never be modified or to undergo any analyses. Any manipulations, tidying, or analyses should be performed on a separate copy of the data. The golden copy should be kept in a separate location and should never be edited.  
 
 
-{% include alert.html text="Do you have a clear plan in place for your data collection and storage?" align="center" color="success" %}
+{% include alert.html text="**Do you have a clear plan in place for your data collection and storage?**" align="center" color="success" %}
 
 {% capture additional_resources %}
 - [Naming conventions guidance](https://data-protection.ed.ac.uk/records-management/practical-guidance/naming-conventions) (University of Edinburgh)

@@ -22,7 +22,7 @@ title: Document Research
   - Learn about the importance of **documenting data** and learn more formal **organisational techniques**, e.g. adhering to metadata standards and preparing data dictionaries. 
 
  
-{% include alert.html text="What strategies can you use to improve the documentation of your project? " align="center" color="success" %}
+{% include alert.html text="**What strategies can you use to improve the documentation of your project?**" align="center" color="success" %}
 
 {% capture additional_resources %}
 - [DMP templates for postgraduate research projects](https://researchdata.ox.ac.uk/dmp-templates)

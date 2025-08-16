@@ -75,9 +75,9 @@ For work requiring **ethical approval**, your line manager or supervisor should 
 
 - Another challenge that can occur is when **research misconduct** takes place 
 
-  - Research misconduct refers to actions that threaten research integrity. 
+  - Research misconduct refers to **actions that threaten research integrity**. 
 
-  - Misconduct can be unintentional, and not necessarily a deliberate breach of research integrity, and can be of varying degrees of severity. 
+  - Misconduct can be **unintentional**, and not necessarily a deliberate breach of research integrity, and can be of varying degrees of severity. 
 
   - Misconduct can include data falsification or fabrication, plagiarism, misrepresentation of findings, breach of duty of care, or a failure to meet legal, ethical, or professional obligations.  
 

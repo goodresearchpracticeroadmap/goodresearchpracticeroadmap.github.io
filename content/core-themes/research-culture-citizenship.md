@@ -25,7 +25,7 @@ Understand how negative research culture can lead to poor research practice, imp
 {% capture additional_resources %}
 - ["What researchers think about research culture" (Wellcome)](https://wellcome.org/reports/what-researchers-think-about-research-culture#key-findings-7f91)
 - ["What is research culture?" (University of Edinburgh)](https://www.ed.ac.uk/research-innovation/research-cultures/what-is-research-culture#:~:text=Research%20culture%20encompasses%20the%20behaviours%2cresearch%20is%20conducted%20and%20communicated.)
-- ["Research culture: why every lab needs a handbook" (eLife)](https://elifesciences.org/articles/88853)
+- Benjamin C Tendler, Maddie Welland, Karla L Miller, The WIN Handbook Team (2023) Research Culture: Why every lab needs a handbook eLife 12:e88853 [https://doi.org/10.7554/eLife.88853](https://elifesciences.org/articles/88853)
 {% endcapture %}
 
 {% include accordion.html title1="Suggested resources" text1=additional_resources %}

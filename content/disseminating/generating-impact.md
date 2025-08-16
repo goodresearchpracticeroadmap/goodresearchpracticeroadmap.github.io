@@ -25,7 +25,7 @@ title: Generating Impact
   - Finally, use your knowledge and skills to **mentor and train other researchers** and students, to ensure the development of future researchers.  
  
 
-{% include alert.html text=" Can you think of ways to maximise the impact of your research?" align="center" color="success" %}
+{% include alert.html text=" **Can you think of ways to maximise the impact of your research?**" align="center" color="success" %}
 
 {% capture additional_resources %}
 - [CMVM Research Impact Guidance](https://medicine-vet-medicine.ed.ac.uk/our-research/cmvm-research-support/impact)

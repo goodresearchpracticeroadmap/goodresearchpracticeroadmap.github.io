@@ -6,7 +6,12 @@ title: Research Design
 
 {% include roadmap-zoom-title.html cssClass="research-design" title="Designing your research and experiments correctly ahead of time and understanding the core principles of experimental design will increase the reproducibility and usefulness of your research" %}
 
-**Familiarise yourself with core principles of study design**
+{% include figure.html img="research-design-cover.jpg" alt="A circular diagram titled Research Design in the center, surrounded by eight connected components that are essential to research design. The components are: Research Objectives & Questions, Data Collection Methods, Sampling, Data Collection Instruments, Data Analysis, Time Frame, Resources, Data Presentation and Reporting. Each component is enclosed in a colored circle, connected to the central Research Design circle with dotted lines." caption="Accessed June 2025 from https://ideascale.com/blog/what-is-research-design/" width="80%" %}
+
+  
+
+### Familiarise yourself with core principles of study design
+
 
 - Learn about different types of study design and consider how this design impacts your data collection and/or analysis. 
 
@@ -20,10 +25,11 @@ title: Research Design
 
 - Think about which controls or control conditions are most appropriate for your study.
 
-{% include alert.html text="How can you apply these principles to your research project?" align="center" color="success" %}
+{% include alert.html text="**How can you apply these principles to your research project?**" align="center" color="success" %}
 
 {% capture additional_resources %}
 - [Experimental design and data analysis (UoE School of Biomedical Sciences)](https://www.ed.ac.uk/biomedical-sciences/experimental-design-and-data-analysis/)
+- Simon Schwab, Leonhard Held, Different Worlds Confirmatory Versus Exploratory Research, Significance, Volume 17, Issue 2, April 2020, Pages 8–9, [https://doi.org/10.1111/1740-9713.01369](https://doi.org/10.1111/1740-9713.01369)
 - Button, K. S., Ioannidis, J. P. A., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S. J., & Munafò, M. R. (2013). Power failure: Why small sample size undermines the reliability of neuroscience. Nature Reviews Neuroscience, 14(5), 365–376. [https://doi.org/10.1038/nrn3475](https://doi.org/10.1038/nrn3475)  
 - Forstmeier, W., Wagenmakers, E.-J., & Parker, T. H. (2017). Detecting and avoiding likely false-positive findings - a practical guide: Avoiding false-positive findings. Biological Reviews, 92(4), 1941–1968 [https://doi.org/10.1111/brv.12315](https://doi.org/10.1111/brv.12315
                                                                                                                                                                                                                                                                                                                          )
@@ -37,7 +43,10 @@ title: Research Design
 
 {% include accordion.html title1="Suggested resources" text1=additional_resources %}
 
-**Consider the importance of objectivity and how to minimise bias**
+  
+
+### Consider the importance of objectivity and how to minimise bias
+
 
 - **Consider the use of randomisation, counterbalancing**, and other methods of group allocation, or for observational research, the sampling method you choose.  
 
@@ -51,7 +60,7 @@ title: Research Design
 
 - **Learn about the negative impacts of poor practice** such as flexible analysis, P-hacking, fishing, and HARKing (Hypothesising After Results are Known). 
 
-{% include alert.html text="Is your research designed objectively? Can you identify any potential sources of bias within your project?" align="center" color="success" %}
+{% include alert.html text="**Is your research designed objectively? Can you identify any potential sources of bias within your project?**" align="center" color="success" %}
 
 {% capture additional_resources_2 %}
 - [Experimental design and data analysis (UoE School of Biomedical Sciences)](https://www.ed.ac.uk/biomedical-sciences/experimental-design-and-data-analysis/)

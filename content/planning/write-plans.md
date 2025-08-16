@@ -24,9 +24,9 @@ title: Write Plans
 
 {% include accordion.html title1="Suggested resources" text1=additional_resources %}
 
-### Consider writing a study protocol 
-
   
+
+### Consider writing a study protocol 
 
 - A **protocol** is a clear and detailed description of the plans and methods that you will use written before starting your research. Writing a protocol will help you identify and address any potential problems with your research plans before you start. 
 
@@ -38,6 +38,8 @@ title: Write Plans
 
 - Scope out any existing **templates or examples** of protocols from the type of study you'll be conducting (e.g. protocols.io and university guidance). 
 
+{% include alert.html text="**What information would you include in the study protocol and data management plan for your project?**" align="center" color="success" %}
+
 {% capture additional_resources_2 %}
 - [Benefits of published protocols according to a major scientific publisher](https://plos.org/protocols/)
 - [UoE information on protocols.io](https://digitalresearchservices.ed.ac.uk/resources/protocols.io) (please note: as of 2025, the University no longer subscribes to the premium plan, but you can use the basic functionalities)
@@ -46,12 +48,12 @@ title: Write Plans
 
 {% include accordion.html title1="Suggested resources" text1=additional_resources_2 %}
 
-{% include alert.html text="What information would you include in the study protocol and data management plan for your project?" align="center" color="success" %}  
 
+  
  
 ### Consider pre-registering your study in an open repository  
 
-  
+
 - **Preregistration** is a practice where researchers publicly register their research plan before conducting their study. This includes details such as research question, hypotheses, study design, data collection methods and planned analyses. 
 
 - Benefits of study pre-registration include limiting **publication bias** and   
@@ -61,7 +63,7 @@ making your own research more **rigorous and transparent**. 
 
 - Explore different **repositories** (e.g., Open Science Framework ([OSF](https://osf.io/)), The University of Edinburgh [DataShare](https://datashare.ed.ac.uk/), journal or funder-specific repositories) and consider which is most suitable for your research.  
 
-{% include alert.html text="Would you consider pre-registering your project? " align="center" color="success" %}  
+{% include alert.html text="**Would you consider pre-registering your project?** " align="center" color="success" %}  
 
 {% capture additional_resources_3 %}
 - [Open Science Framework (OSF)](http://osf.io/)
