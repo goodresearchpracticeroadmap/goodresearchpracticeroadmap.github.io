@@ -12,7 +12,7 @@ title: Data Analysis
 
   - You should always make sure any data analysis is **replicable and reproducible** – be sure you know and record exactly what you did and how you did it.  
 
- -  Be sure to back up your analysis workflow and use a system for version control
+ -  Be sure to back up your analysis workflow and use a system for version control.
 
   - If using specific software for data analysis, always **record the exact software versions and settings used**, and keep a record of the exact steps you followed.  
 
@@ -20,13 +20,13 @@ title: Data Analysis
 
   - If using coding/programming, follow steps to **ensure your code is reproducible**: use version control, good coding practices, upload to repositories, and have proper procedures in place for updating, overwriting, or collaborating on code.   
 
-  - If doing quantitative research, engage in appropriate **statistical training** and ensure you understand the statistical tests you are using, and which tests or checks are **suitable to the type of data** you're analysing – this should ideally have been addressed in the “planning” stage of your project. If needed, seek out help with analysis from an expert, statistician, or data analysis group. 
+  - If doing quantitative research, engage in appropriate  **statistical training**  and ensure you understand the statistical tests you are using, and which tests or checks are **suitable to the type of data** you're analysing – this should ideally have been addressed in the “planning” stage of your project. If needed, seek out help with analysis from an expert, statistician, or data analysis group. 
 
-- **Avoid questionable research practices such as HARKing and P-hacking** during analysis – this is common and **isn’t always done deliberately**
+- **Avoid questionable research practices such as HARKing and P-hacking** during analysis – this is common and **isn’t always done deliberately**.
 
 - For quantitative data, consider whether you need to perform any **data checks** before including data in analysis e.g., tests normality, sphericity, homogeneity, or checking for outliers etc. – these should have ideally been planned in any protocols.  
 
-- Understand the importance of **good data presentation** and consider ways to incorporate these practices: graphic and figure design, types of plots available, slide design. Scope out any helpful guides and/or tools that may help you achieve this. Ensure your data presentation is accessible, eg. use colour-blind friendly presentation. 
+- Understand the importance of  **good data presentation** and consider ways to incorporate these practices: graphic and figure design, types of plots available, slide design. Scope out any helpful guides and/or tools that may help you achieve this. Ensure your data presentation is accessible, eg. use colour-blind friendly presentation. 
 
   
 {% include alert.html text="**Are you confident you understand the best ways analyse and present your data? Does your experimental design and data analysis help to answer your research question?**" align="center" color="success" %}

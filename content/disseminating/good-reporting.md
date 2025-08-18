@@ -11,12 +11,19 @@ title: Good Reporting
 ### Report your research accurately and completely
 
 - **Report any deviations** from your protocol, if you published one.
+
 - Report your methods and results **clearly and comprehensively**.
+
 - **Avoid poor practice** like selective reporting of outcomes or results or cherry-picking of results. You should aim to report all results relevant to your research questions, regardless of their significance and whether they confirm your hypotheses.
+
 - **Report your findings, even if they refute your hypotheses** or are “null” results. Not doing so contributes to publication bias, and could lead to research waste, or distort findings of evidence syntheses like meta-analyses, exaggerating results.
+
 - In quantitative research, be cautious about the **reporting and interpretation** of statistical results such as P-values.
+
 - Ensure you properly **identify and declare any potential conflicts of interest** (e.g. financial, personal) that could affect the integrity of your work and affect research outcomes.
+
 - Be careful to follow **appropriate procedures for referencing** and citing previous work (including formats like images and websites) to avoid plagiarism.
+
 - Consider creating a **metadata template** you can complete for each experiment.
 
   
@@ -24,12 +31,19 @@ title: Good Reporting
 ### Follow available reporting guidelines where applicable
 
 - Use a system such as the [Equator Network](https://www.equator-network.org/reporting-guidelines/) to identify *specific reporting guidelines for your study type and research field*.
+
 - Inform yourself on **reporting guidelines** in your field of research and in the broader research environment (these are often study type-specific), e.g.
+
   - For clinical trials, refer to [Consolidated Standards of Reporting Trials (CONSORT)](https://www.equator-network.org/reporting-guidelines/consort/).
+  
   -	For animal research, refer to the [ARRIVE](https://arriveguidelines.org/arrive-guidelines) guidelines.
+  
   - For studies such as systematic reviews, follow the [PRISMA](https://www.prisma-statement.org/prisma-2020-checklist) guidelines.
+
 - Additionally, be aware of any **additional guidelines or standards** set out by your programme, institution, or funding body, and adhere to these as well. Be aware of any specific guidelines e.g. ,around using generative artificial intelligence (AI).
+
 - Also follow [reporting standards for metadata](https://fairsharing.org/search?fairsharingRegistry=Standard), where applicable.
+
 - **Ensure you adhere to these rigorously and completely**. Understand the items fully, fill in all required or recommended sections of any forms or sections, and follow any supporting guidelines available to ensure accuracy.
 
 {% include alert.html text="**In what ways could improving your reporting practices benefit your research and its wider impact?** " align="center" color="success" %}

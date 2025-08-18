@@ -6,9 +6,13 @@ title: Open Research
 
 **Open Research is an important movement in research to make it accessible, inclusive, equitable, and sustainable. It is underpinned by principles such as transparency, reproducibility, and collaboration.**  
 
+ 
+
 {% include figure.html img="What is open science.png" alt="Circular infographic showing the research lifecycle with OSF (Open Science Framework) at the center. The outer ring represents stages of the research process, labeled clockwise as: Creative Design, Resourcing, Planning, Conducting, Interpreting, Reporting, Publishing, and Discussing. Radiating outward from each stage are related open science practices: Creative Design - Synthesis, Participatory Research; Resourcing - Data Management Plans; Planning - Preregistration, Team Science; Conducting - Open Notebooks, Open Protocols; Interpreting - Open Materials, Preprints; Reporting - Open Code, Open Data; Publishing - Open Peer Review, Open Access; Discussing - Corrections" caption= "What is Open Science? Center for Open Science. Accessed June 2025 from https://www.cos.io/open-science/" width="100%" %}
 
-**Familiarise yourself with the concept of Open Research**
+ 
+
+### Familiarise yourself with the concept of Open Research
 
 - Open Research is a movement which aims to make scientific research (including publications, data, physical samples, and software) and its dissemination **accessible** to all levels of society, amateur or professional. It also ensures that the production of that knowledge itself is **inclusive, equitable and sustainable**. 
 
@@ -32,7 +36,11 @@ title: Open Research
 
 {% include accordion.html title1="Suggested resources" text1=additional_resources %}
 
-**Apply principles of Open Research to your work**
+ 
+
+### Apply principles of Open Research to your work
+
+ 
 
 {% include figure.html img="Open-science-UNESCO.png" alt="Circular infographic titled Open Science represented at the center of a four-piece puzzle surrounded by icons and labels. Each puzzle piece represents a key pillar of open science: Open Scientific Knowledge (green segment): Includes open research data, open educational resources, scientific publications, open source software and code, and open hardware. Open Science Infrastructures (pink segment): Covers both virtual and physical infrastructures that support open science practices. Open Engagement of Societal Actors (orange segment): Highlights crowdfunding, crowdsourcing, scientific volunteering, and citizen and participatory science. Open Dialogue with Other Knowledge Systems (blue segment): Emphasizes engagement with Indigenous peoples, marginalized scholars, and local communities. The design visually connects these four interlocking elements around the central principle of Open Science, reinforcing inclusion, transparency, accessibility, and collaboration" caption= "UNESCO Open Science Toolkit. Accessed June 2025 from https://unesdoc.unesco.org/ark:/48223/pf0000387983" %}
 
@@ -44,13 +52,13 @@ title: Open Research
 
 - Ensure you comply with the University’s [Publication & Copyright Policy](https://information-services.ed.ac.uk/about/policies-and-regulations/research-publications) which applies to staff on research contracts. 
 
-- The University has systems in place to cover [Open Access publishing fees](https://library.ed.ac.uk/research-support/publish-research/open-access/read-and-publish-journals)
+- The University has systems in place to cover [Open Access publishing fees](https://library.ed.ac.uk/research-support/publish-research/open-access/read-and-publish-journals).
 
 - Consider non-peer reviewed formats such as **preprints** to disseminate your research on an open access server, e.g., [openRxiv](https://openrxiv.org/). A preprint is a full draft research paper that is shared publicly before it has been peer-reviewed. Most preprints are given a digital object identifier (DOI) so they can be cited in other research papers. Benefits include credit, feedback and visibility.  
 
-- Learn about **publication bias**, and consider when to publish negative findings 
+- Learn about **publication bias**, and consider when to publish negative findings.
 
-- Create and use an [Open Researcher and Contributor ID (ORCID)](https://orcid.org/) and link your publications to your profile. 
+- Create and use an  [Open Researcher and Contributor ID (ORCID)](https://orcid.org/) and link your publications to your profile. 
 
 - Understand author contributions using [CRediT](https://credit.niso.org/), and appropriately and fairly acknowledge all contributions to a research piece. 
 

@@ -26,7 +26,7 @@ title: Data collection & storage
 
   - Your data is only as secure as the place it is stored – it is strongly recommended that all your data is stored on **secure University storage platforms** such as DataStore and/or OneDrive or SharePoint. Data stored here is secure, backed up daily to multiple sites and files can be easily shared and collaborated on with your colleagues.  
 
-  - USB sticks and external hard drives are notoriously prone to failure as well as easily misplaced and they should be avoided. 
+  - USB sticks and external hard drives are notoriously **prone to failure** as well as easily misplaced and they should be avoided. 
 
   - It is good practice to use a **naming convention** to give your files informative names that can be easily understood by others (and your future self!). This could include information such as data collection date, experiment or subject ID, equipment settings, or sequential numbering of multiple files or measurements within a subject. 
 

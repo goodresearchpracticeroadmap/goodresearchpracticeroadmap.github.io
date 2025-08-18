@@ -17,13 +17,13 @@ title: Research Design
 
 - Consider how to **develop your research question**, and invest time into expressing it clearly and refining it.
 
-- For quantitative and qualitative research, consider different research methodologies available to you, determine which best suit your research objectives and consider the type of data they will produce. Make sure you are equipped to handle these data and remember to allow for some flexibility in your design in case your data or understanding of the data evolves over time. 
+- For quantitative and qualitative research, consider different research methodologies available to you, determine which best suit your research objectives and consider the type of data they will produce. Make sure you are equipped to handle these data and remember to **allow for some flexibility in your design** in case your data or understanding of the data evolves over time. 
 
 - Familiarise yourself with the concepts and principles around developing, testing, and rejecting/confirming hypotheses, and understand differences between confirmatory vs. exploratory research. 
 
 - Consider design choices like sample size, or when data sampling should end. You should **calculate and be able to justify your chosen sample size**.
 
-- Think about which controls or control conditions are most appropriate for your study.
+- Think about which  **controls** or control conditions are most appropriate for your study.
 
 {% include alert.html text="**How can you apply these principles to your research project?**" align="center" color="success" %}
 
@@ -52,9 +52,9 @@ title: Research Design
 
 - **Understand the importance of blinding** at different stages of your research work and analysis, and the types of bias they may prevent. 
 
-- Understand the importance of defining a priori **inclusion and exclusion criteria** and developing rules for excluding data points or subjects from analyses or datasets. 
+- Understand the importance of defining a priori  **inclusion and exclusion criteria** and developing rules for excluding data points or subjects from analyses or datasets. 
 
-- **For quantitative research, learn about sample size** and **power calculations** (e.g. using G*Power), and learn how to avoid pseudoreplication errors. 
+- **For quantitative research, learn about sample size**  and  **power calculations**  (e.g. using G*Power), and learn how to avoid pseudoreplication errors. 
 
 - **Learn about different types of statistical assumptions (e.g. normality, homogeneity)**, and ways of detecting and handling outliers in a dataset. 
 
