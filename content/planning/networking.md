@@ -18,10 +18,10 @@ title: Networking
 
 - Consider finding an **academic mentor** to help with your development and career progression. This should be someone external to your project, who can offer more general guidance. You may wish to discuss with your supervisors any suggestions for possible mentors. 
 
-Use your **existing connections** (e.g., supervisors, line managers, thesis committees, mentors) as a starting point to grow your network, and keep an eye on growth opportunities 
+- Use your **existing connections** (e.g., supervisors, line managers, thesis committees, mentors) as a starting point to grow your network, and keep an eye on growth opportunities 
 
  
-{% include alert.html text="Can you think of any other ways to start building your network?" align="center" color="success" %}
+{% include alert.html text="**Can you think of any other ways to start building your network?**" align="center" color="success" %}
 
 {% capture additional_resources %}
 - [LinkedIn – how to ‘rock your profile’](https://www.linkedin.com/learning/rock-your-linkedin-profile/connect-to-opportunity-with-linkedin?u=50251009)

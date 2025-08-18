@@ -6,7 +6,10 @@ title: Ethics & Integrity
 
 **Ethics are moral principles that define what is right and wrong, guiding our behaviour. In research, they appear as rules or codes of conduct. Integrity means consistently applying these principles, staying true to positive values.**
 
-**General principles and ethos of ethics and integrity**
+ 
+
+### General principles and ethos of ethics and integrity
+
 - Ensure you thoroughly **evaluate the ethics of your research**, guided by key principles such as respect for research subjects, adherence to regulations, appropriate use of resources, research integrity, personal responsibility, accountability and sustainability – including environmental impact. 
 
 - Be aware of all **regulations impacting your work** (whether imposed by the University, funders, regulatory bodies, etc.), and always adhere to these. 
@@ -32,7 +35,9 @@ For published work, ensure all authors get a chance to approve of the work befor
 
 {% include accordion.html title1="Suggested resources" text1=additional_resources %}
 
-**Determine whether your work requires specific ethical approval or considerations**
+ 
+
+### Determine whether your work requires specific ethical approval or considerations
 - **Ethical approval is required for the use of animal or human subjects, or for the use of sensitive or personal human data**. If you are working with human participants, you will also need a project sponsor – at the University of Edinburgh, this is typically [ACCORD](https://accord.scot). 
 
 - Be aware of any **restrictions around the type of information you plan to collect** and plan accordingly. 
@@ -65,19 +70,21 @@ For work requiring **ethical approval**, your line manager or supervisor should 
 
 {% include accordion.html title1="Suggested resources" text1=additional_resources_2 %}
 
-**If things go wrong** 
+ 
+
+### If things go wrong
 
 - Remember that it is likely during a research project or research degree that **something unexpected will happen or that something will go wrong** – this is entirely **normal**, as are ensuing changes and adaptations to plans or procedures.  
 
-- Try to cultivate **resilience** in face of these challenges, to make sure that you can withstand difficult situations and recover from them more quickly, as well as learning from mistakes or setbacks. 
+- Try to cultivate **resilience** in face of these challenges, to make sure that you can withstand difficult situations and recover from them more quickly, as well as **learning from mistakes or setbacks**. 
 
 - Some challenges, particularly interpersonal difficulties with colleagues and/or supervisors might be more delicate and **require support and/or following specific procedures** to reach a resolution. Consider which individuals you could reach out to for help (e.g., your supervisor or line manager, or thesis committee). 
 
-- Another challenge that can occur is when **research misconduct** takes place 
+- Another challenge that can occur is when **research misconduct** takes place.
 
-  - Research misconduct refers to actions that threaten research integrity. 
+  - Research misconduct refers to **actions that threaten research integrity**. 
 
-  - Misconduct can be unintentional, and not necessarily a deliberate breach of research integrity, and can be of varying degrees of severity. 
+  - Misconduct can be **unintentional**, and not necessarily a deliberate breach of research integrity, and can be of varying degrees of severity. 
 
   - Misconduct can include data falsification or fabrication, plagiarism, misrepresentation of findings, breach of duty of care, or a failure to meet legal, ethical, or professional obligations.  
 

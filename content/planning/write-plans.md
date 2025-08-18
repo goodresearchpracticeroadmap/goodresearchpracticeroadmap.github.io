@@ -11,9 +11,9 @@ title: Write Plans
 
 - **A Data Management Plan** (DMP) outlines how your research data will be managed throughout a project (and beyond). Having a DMP mitigates future data management issues by anticipating and addressing potential challenges from the start of a project. 
 
-- Your DMP should be regularly **reviewed and amended** if necessary – they are flexible and can be adapted as your project progresses or changes focus 
+- Your DMP should be regularly **reviewed and amended** if necessary – they are flexible and can be adapted as your project progresses or changes focus.
 
-- A DMP should include details of the types of data you will generate, the anticipated volume of your data, where data will be stored (short and long term), how data will be shared (if appropriate) and how you will make your data open - **‘as open as possible, as closed as necessary** is the phrase used by the European Research Executive Agency to describe their Open Science principles.
+- A DMP should include details of the types of data you will generate, the anticipated volume of your data, where data will be stored (short and long term), how data will be shared (if appropriate) and how you will make your data open - **‘as open as possible, as closed as necessary'** is the phrase used by the European Research Executive Agency to describe their Open Science principles.
  
 {% include figure.html img="Research-data-lifecycle.png" alt="Circular image with 8 segments showing the stages of the research data lifecyle. From clockwise these stages are: Plan (orange), Collect (yellow), Store (dark green), Analyse (turquoise), Describe (aqua blue), Archive (royal blue), Share (aubergine), Re-use (red)." caption="What is Research Data Management? TU Berlin. Accessed June 2025 from https://www.tu.berlin/en/ub/szf/tips-tools/what-is-research-data-management." %}
 
@@ -24,19 +24,21 @@ title: Write Plans
 
 {% include accordion.html title1="Suggested resources" text1=additional_resources %}
 
-### Consider writing a study protocol 
-
   
 
-- A **protocol** is a clear and detailed description of the plans and methods that you will use written before starting your research. Writing a protocol will help you identify and address any potential problems with your research plans before you start. 
+### Consider writing a study protocol 
+
+- A **protocol**  is a clear and detailed description of the plans and methods that you will use written before starting your research. Writing a protocol will help you identify and address any potential problems with your research plans before you start. 
 
 - Writing a protocol before conducting your research for processes such as data collection and analysis helps **combat detrimental research practices** such as publication bias (selectively publishing only some findings), p-hacking (manipulating data to achieve certain P-values), HARKing (hypothesising after results are known) and results fishing.  
 
-- Advantages of **publishing a protocol** include improvement to your protocols via peer review, expanding your publication record, increased transparency, and helping your field move faster.  
+- Advantages of  **publishing a protocol**  include improvement to your protocols via peer review, expanding your publication record, increased transparency, and helping your field move faster.  
 
 - Scope out **possible platforms and formats** for your study protocol, and endeavour to write a protocol for all your projects or project stages. 
 
 - Scope out any existing **templates or examples** of protocols from the type of study you'll be conducting (e.g. protocols.io and university guidance). 
+
+{% include alert.html text="**What information would you include in the study protocol and data management plan for your project?**" align="center" color="success" %}
 
 {% capture additional_resources_2 %}
 - [Benefits of published protocols according to a major scientific publisher](https://plos.org/protocols/)
@@ -46,22 +48,21 @@ title: Write Plans
 
 {% include accordion.html title1="Suggested resources" text1=additional_resources_2 %}
 
-{% include alert.html text="What information would you include in the study protocol and data management plan for your project?" align="center" color="success" %}  
 
+  
  
 ### Consider pre-registering your study in an open repository  
 
-  
+
 - **Preregistration** is a practice where researchers publicly register their research plan before conducting their study. This includes details such as research question, hypotheses, study design, data collection methods and planned analyses. 
 
-- Benefits of study pre-registration include limiting **publication bias** and   
-making your own research more **rigorous and transparent**.  
+- Benefits of study pre-registration include limiting  **publication bias**  and making your own research more **rigorous and transparent**.  
 
 - Consider alternative options like publishing a [Registered Report](https://royalsociety.org/blog/2016/11/registered-reports-what-are-they-and-why-are-they-important/): an article where methods and analyses are preregistered and peer-reviewed prior to the study being conducted. This review process, and potential modifications to the study design based on expert feedback, lead to provisional acceptance of studies that are deemed methodologically sound.  
 
-- Explore different **repositories** (e.g., Open Science Framework ([OSF](https://osf.io/)), The University of Edinburgh [DataShare](https://datashare.ed.ac.uk/), journal or funder-specific repositories) and consider which is most suitable for your research.  
+- Explore different  **repositories**  (e.g., Open Science Framework ([OSF](https://osf.io/)), The University of Edinburgh [DataShare](https://datashare.ed.ac.uk/), journal or funder-specific repositories) and consider which is most suitable for your research.  
 
-{% include alert.html text="Would you consider pre-registering your project? " align="center" color="success" %}  
+{% include alert.html text="**Would you consider pre-registering your project?** " align="center" color="success" %}  
 
 {% capture additional_resources_3 %}
 - [Open Science Framework (OSF)](http://osf.io/)

@@ -6,24 +6,30 @@ title: Research Design
 
 {% include roadmap-zoom-title.html cssClass="research-design" title="Designing your research and experiments correctly ahead of time and understanding the core principles of experimental design will increase the reproducibility and usefulness of your research" %}
 
-**Familiarise yourself with core principles of study design**
+{% include figure.html img="research-design-cover.jpg" alt="A circular diagram titled Research Design in the center, surrounded by eight connected components that are essential to research design. The components are: Research Objectives & Questions, Data Collection Methods, Sampling, Data Collection Instruments, Data Analysis, Time Frame, Resources, Data Presentation and Reporting. Each component is enclosed in a colored circle, connected to the central Research Design circle with dotted lines." caption="Accessed June 2025 from https://ideascale.com/blog/what-is-research-design/" width="80%" %}
+
+  
+
+### Familiarise yourself with core principles of study design
+
 
 - Learn about different types of study design and consider how this design impacts your data collection and/or analysis. 
 
 - Consider how to **develop your research question**, and invest time into expressing it clearly and refining it.
 
-- For quantitative and qualitative research, consider different research methodologies available to you, determine which best suit your research objectives and consider the type of data they will produce. Make sure you are equipped to handle these data and remember to allow for some flexibility in your design in case your data or understanding of the data evolves over time. 
+- For quantitative and qualitative research, consider different research methodologies available to you, determine which best suit your research objectives and consider the type of data they will produce. Make sure you are equipped to handle these data and remember to **allow for some flexibility in your design** in case your data or understanding of the data evolves over time. 
 
 - Familiarise yourself with the concepts and principles around developing, testing, and rejecting/confirming hypotheses, and understand differences between confirmatory vs. exploratory research. 
 
 - Consider design choices like sample size, or when data sampling should end. You should **calculate and be able to justify your chosen sample size**.
 
-- Think about which controls or control conditions are most appropriate for your study.
+- Think about which  **controls** or control conditions are most appropriate for your study.
 
-{% include alert.html text="How can you apply these principles to your research project?" align="center" color="success" %}
+{% include alert.html text="**How can you apply these principles to your research project?**" align="center" color="success" %}
 
 {% capture additional_resources %}
 - [Experimental design and data analysis (UoE School of Biomedical Sciences)](https://www.ed.ac.uk/biomedical-sciences/experimental-design-and-data-analysis/)
+- Simon Schwab, Leonhard Held, Different Worlds Confirmatory Versus Exploratory Research, Significance, Volume 17, Issue 2, April 2020, Pages 8–9, [https://doi.org/10.1111/1740-9713.01369](https://doi.org/10.1111/1740-9713.01369)
 - Button, K. S., Ioannidis, J. P. A., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S. J., & Munafò, M. R. (2013). Power failure: Why small sample size undermines the reliability of neuroscience. Nature Reviews Neuroscience, 14(5), 365–376. [https://doi.org/10.1038/nrn3475](https://doi.org/10.1038/nrn3475)  
 - Forstmeier, W., Wagenmakers, E.-J., & Parker, T. H. (2017). Detecting and avoiding likely false-positive findings - a practical guide: Avoiding false-positive findings. Biological Reviews, 92(4), 1941–1968 [https://doi.org/10.1111/brv.12315](https://doi.org/10.1111/brv.12315
                                                                                                                                                                                                                                                                                                                          )
@@ -37,21 +43,24 @@ title: Research Design
 
 {% include accordion.html title1="Suggested resources" text1=additional_resources %}
 
-**Consider the importance of objectivity and how to minimise bias**
+  
+
+### Consider the importance of objectivity and how to minimise bias
+
 
 - **Consider the use of randomisation, counterbalancing**, and other methods of group allocation, or for observational research, the sampling method you choose.  
 
 - **Understand the importance of blinding** at different stages of your research work and analysis, and the types of bias they may prevent. 
 
-- Understand the importance of defining a priori **inclusion and exclusion criteria** and developing rules for excluding data points or subjects from analyses or datasets. 
+- Understand the importance of defining a priori  **inclusion and exclusion criteria** and developing rules for excluding data points or subjects from analyses or datasets. 
 
-- **For quantitative research, learn about sample size** and **power calculations** (e.g. using G*Power), and learn how to avoid pseudoreplication errors. 
+- **For quantitative research, learn about sample size**  and  **power calculations**  (e.g. using G*Power), and learn how to avoid pseudoreplication errors. 
 
 - **Learn about different types of statistical assumptions (e.g. normality, homogeneity)**, and ways of detecting and handling outliers in a dataset. 
 
 - **Learn about the negative impacts of poor practice** such as flexible analysis, P-hacking, fishing, and HARKing (Hypothesising After Results are Known). 
 
-{% include alert.html text="Is your research designed objectively? Can you identify any potential sources of bias within your project?" align="center" color="success" %}
+{% include alert.html text="**Is your research designed objectively? Can you identify any potential sources of bias within your project?**" align="center" color="success" %}
 
 {% capture additional_resources_2 %}
 - [Experimental design and data analysis (UoE School of Biomedical Sciences)](https://www.ed.ac.uk/biomedical-sciences/experimental-design-and-data-analysis/)
